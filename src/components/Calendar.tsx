@@ -34,11 +34,11 @@ export default function Calendar({
     `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
 
   return (
-    <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
+    <div className="glass-card rounded-xl p-4">
       <div className="flex items-center justify-between mb-4">
         <button
           onClick={onPrevMonth}
-          className="p-2 hover:bg-slate-100 rounded-lg transition-colors text-slate-600"
+          className="p-2 hover:bg-white/10 rounded-lg transition-colors text-white/70"
           aria-label="이전 달"
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -47,12 +47,12 @@ export default function Calendar({
         </button>
 
         <div className="flex items-center gap-3">
-          <h2 className="text-lg font-bold text-slate-900">
+          <h2 className="text-lg font-bold text-white">
             {year}년 {month}월
           </h2>
           <button
             onClick={onToday}
-            className="text-xs px-2.5 py-1 rounded-full bg-primary text-white hover:bg-primary-dark transition-colors"
+            className="text-xs px-2.5 py-1 rounded-full glass-btn-primary"
           >
             오늘
           </button>
@@ -60,7 +60,7 @@ export default function Calendar({
 
         <button
           onClick={onNextMonth}
-          className="p-2 hover:bg-slate-100 rounded-lg transition-colors text-slate-600"
+          className="p-2 hover:bg-white/10 rounded-lg transition-colors text-white/70"
           aria-label="다음 달"
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -74,7 +74,7 @@ export default function Calendar({
           <div
             key={d}
             className={`text-center text-xs font-medium py-2 ${
-              i === 0 ? "text-red-400" : i === 6 ? "text-blue-400" : "text-slate-400"
+              i === 0 ? "text-red-300" : i === 6 ? "text-blue-300" : "text-white/50"
             }`}
           >
             {d}

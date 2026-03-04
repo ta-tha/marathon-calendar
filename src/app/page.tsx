@@ -76,13 +76,13 @@ export default function Home() {
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center">
-        <div className="text-slate-400 text-sm">데이터를 불러오는 중...</div>
+        <div className="text-white/60 text-sm">데이터를 불러오는 중...</div>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-slate-50">
+    <div className="min-h-screen">
       <Header />
       <main className="max-w-5xl mx-auto px-4 py-6 space-y-4">
         <FilterBar selected={selectedRegions} onChange={setSelectedRegions} />
@@ -103,17 +103,6 @@ export default function Home() {
           </div>
         </div>
       </main>
-
-      <footer className="mt-12 py-6 border-t border-slate-200 text-center text-sm text-slate-400">
-        <a
-          href="https://open.kakao.com/o/sBQR8q1h"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hover:text-slate-600 transition-colors"
-        >
-          개발자에게 문의하기
-        </a>
-      </footer>
     </div>
   );
 }

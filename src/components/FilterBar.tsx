@@ -19,13 +19,13 @@ export default function FilterBar({ selected, onChange }: FilterBarProps) {
   const clearAll = () => onChange([]);
 
   return (
-    <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
+    <div className="glass-card rounded-xl p-4">
       <div className="flex items-center justify-between mb-3">
-        <h2 className="text-sm font-semibold text-slate-700">지역 필터</h2>
+        <h2 className="text-sm font-semibold text-white/90">지역 필터</h2>
         {selected.length > 0 && (
           <button
             onClick={clearAll}
-            className="text-xs text-slate-500 hover:text-primary transition-colors"
+            className="text-xs text-white/50 hover:text-white transition-colors"
           >
             초기화
           </button>
@@ -38,10 +38,10 @@ export default function FilterBar({ selected, onChange }: FilterBarProps) {
             <button
               key={r}
               onClick={() => toggle(r)}
-              className={`px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
+              className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all ${
                 active
-                  ? "bg-primary text-white"
-                  : "bg-slate-100 text-slate-600 hover:bg-slate-200"
+                  ? "glass-chip-active"
+                  : "glass-chip"
               }`}
             >
               {r}

@@ -12,27 +12,27 @@ interface AlertPanelProps {
 function DeadlineBadge({ days }: { days: number }) {
   if (days <= 0) {
     return (
-      <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-red-500 text-white">
+      <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-red-500/80 text-white">
         D-Day
       </span>
     );
   }
   if (days <= 3) {
     return (
-      <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-red-500 text-white">
+      <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-red-500/80 text-white">
         D-{days}
       </span>
     );
   }
   if (days <= 7) {
     return (
-      <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-orange-500 text-white">
+      <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-orange-500/80 text-white">
         D-{days}
       </span>
     );
   }
   return (
-    <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-slate-400 text-white">
+    <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-white/20 text-white/80">
       D-{days}
     </span>
   );
@@ -83,8 +83,8 @@ function ScrollSection({ title, dotColor, children }: ScrollSectionProps) {
   const { showLeft, showRight, scrollBy } = useScrollArrows(scrollRef);
 
   return (
-    <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
-      <h2 className="text-sm font-semibold text-slate-700 mb-3 flex items-center gap-2">
+    <div className="glass-card rounded-xl p-4">
+      <h2 className="text-sm font-semibold text-white/90 mb-3 flex items-center gap-2">
         <span className={`w-2 h-2 rounded-full ${dotColor} inline-block`} />
         {title}
       </h2>
@@ -92,7 +92,7 @@ function ScrollSection({ title, dotColor, children }: ScrollSectionProps) {
         {showLeft && (
           <button
             onClick={() => scrollBy("left")}
-            className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-1 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white shadow-md border border-slate-200 text-slate-600 hover:bg-slate-50 hover:text-slate-900 transition-colors"
+            className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-1 z-10 w-8 h-8 flex items-center justify-center rounded-full glass-scroll-arrow"
             aria-label="이전"
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-4 h-4">
@@ -109,7 +109,7 @@ function ScrollSection({ title, dotColor, children }: ScrollSectionProps) {
         {showRight && (
           <button
             onClick={() => scrollBy("right")}
-            className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-1 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-white shadow-md border border-slate-200 text-slate-600 hover:bg-slate-50 hover:text-slate-900 transition-colors"
+            className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-1 z-10 w-8 h-8 flex items-center justify-center rounded-full glass-scroll-arrow"
             aria-label="다음"
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-4 h-4">
@@ -131,23 +131,23 @@ export default function AlertPanel({ events, onEventClick }: AlertPanelProps) {
   return (
     <div className="space-y-4">
       {deadlines.length > 0 && (
-        <ScrollSection title="접수중 (마감 임박)" dotColor="bg-red-500">
+        <ScrollSection title="접수중 (마감 임박)" dotColor="bg-red-400">
           {deadlines.map((evt) => {
             const days = daysUntil(evt.registrationEnd!);
             return (
               <button
                 key={evt.id}
                 onClick={() => onEventClick(evt)}
-                className="flex-shrink-0 w-56 text-left bg-slate-50 hover:bg-primary-light rounded-lg p-3 border border-slate-200 hover:border-primary transition-colors"
+                className="flex-shrink-0 w-56 text-left glass-alert-card rounded-lg p-3"
               >
                 <div className="flex items-start justify-between gap-2 mb-1">
-                  <span className="text-sm font-medium text-slate-900 line-clamp-1">
+                  <span className="text-sm font-medium text-white line-clamp-1">
                     {evt.title}
                   </span>
                   <DeadlineBadge days={days} />
                 </div>
-                <p className="text-xs text-slate-500 mb-1">{evt.location}</p>
-                <p className="text-xs text-slate-400">
+                <p className="text-xs text-white/60 mb-1">{evt.location}</p>
+                <p className="text-xs text-white/45">
                   행사일 {formatShortDate(evt.eventDate)} | 마감 {formatShortDate(evt.registrationEnd!)}
                 </p>
               </button>
@@ -157,25 +157,25 @@ export default function AlertPanel({ events, onEventClick }: AlertPanelProps) {
       )}
 
       {upcoming.length > 0 && (
-        <ScrollSection title="곧 접수 시작" dotColor="bg-blue-500">
+        <ScrollSection title="곧 접수 시작" dotColor="bg-blue-400">
           {upcoming.map((evt) => {
             const days = daysUntil(evt.registrationStart!);
             return (
               <button
                 key={evt.id}
                 onClick={() => onEventClick(evt)}
-                className="flex-shrink-0 w-56 text-left bg-slate-50 hover:bg-primary-light rounded-lg p-3 border border-slate-200 hover:border-primary transition-colors"
+                className="flex-shrink-0 w-56 text-left glass-alert-card rounded-lg p-3"
               >
                 <div className="flex items-start justify-between gap-2 mb-1">
-                  <span className="text-sm font-medium text-slate-900 line-clamp-1">
+                  <span className="text-sm font-medium text-white line-clamp-1">
                     {evt.title}
                   </span>
-                  <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-blue-500 text-white">
+                  <span className="shrink-0 whitespace-nowrap inline-block px-2 py-0.5 rounded-full text-xs font-bold bg-blue-500/60 text-white">
                     D-{days}
                   </span>
                 </div>
-                <p className="text-xs text-slate-500 mb-1">{evt.location}</p>
-                <p className="text-xs text-slate-400">
+                <p className="text-xs text-white/60 mb-1">{evt.location}</p>
+                <p className="text-xs text-white/45">
                   행사일 {formatShortDate(evt.eventDate)} | 접수시작 {formatShortDate(evt.registrationStart!)}
                 </p>
               </button>
