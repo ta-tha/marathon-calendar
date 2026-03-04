@@ -135,9 +135,11 @@ export default function AlertPanel({ events, onEventClick }: AlertPanelProps) {
           {deadlines.map((evt) => {
             const days = daysUntil(evt.registrationEnd!);
             return (
-              <button
+              <a
                 key={evt.id}
-                onClick={() => onEventClick(evt)}
+                href={evt.registrationUrl || evt.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex-shrink-0 w-56 text-left glass-alert-card rounded-lg p-3"
               >
                 <div className="flex items-start justify-between gap-2 mb-1">
@@ -150,7 +152,7 @@ export default function AlertPanel({ events, onEventClick }: AlertPanelProps) {
                 <p className="text-xs text-white/45">
                   행사일 {formatShortDate(evt.eventDate)} | 마감 {formatShortDate(evt.registrationEnd!)}
                 </p>
-              </button>
+              </a>
             );
           })}
         </ScrollSection>
@@ -161,9 +163,11 @@ export default function AlertPanel({ events, onEventClick }: AlertPanelProps) {
           {upcoming.map((evt) => {
             const days = daysUntil(evt.registrationStart!);
             return (
-              <button
+              <a
                 key={evt.id}
-                onClick={() => onEventClick(evt)}
+                href={evt.registrationUrl || evt.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex-shrink-0 w-56 text-left glass-alert-card rounded-lg p-3"
               >
                 <div className="flex items-start justify-between gap-2 mb-1">
@@ -178,7 +182,7 @@ export default function AlertPanel({ events, onEventClick }: AlertPanelProps) {
                 <p className="text-xs text-white/45">
                   행사일 {formatShortDate(evt.eventDate)} | 접수시작 {formatShortDate(evt.registrationStart!)}
                 </p>
-              </button>
+              </a>
             );
           })}
         </ScrollSection>
