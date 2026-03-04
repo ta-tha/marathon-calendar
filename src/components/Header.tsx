@@ -86,7 +86,7 @@ export default function Header() {
             <div className="text-sm text-white/80 text-center leading-relaxed mb-6">
               <p>안녕하세요 AI 바이브코더 타타입니다.</p>
               <p className="mt-1">
-                마라톤 캘린더는 매일 새벽 3시(KST)에 자동으로 업데이트 됩니다.
+                매일 새벽 3시(KST) 자동 업데이트
               </p>
               <p className="mt-1">문의는 아래 링크로 주세요.</p>
             </div>
