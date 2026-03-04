@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const alt = "마라톤 캘린더 - 전국 마라톤 대회 일정";
+export const alt = "전국 마라톤 캘린더 - 전국 마라톤 대회 일정";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -91,7 +91,7 @@ export default function Image() {
               display: "flex",
             }}
           >
-            마라톤 캘린더
+            전국 마라톤 캘린더
           </div>
 
           {/* Subtitle */}
