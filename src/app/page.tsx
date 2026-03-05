@@ -1,19 +1,38 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, useMemo } from "react";
 import { MarathonEvent, Region } from "@/lib/types";
 import Header from "@/components/Header";
+import SearchBar from "@/components/SearchBar";
 import FilterBar from "@/components/FilterBar";
 import AlertPanel from "@/components/AlertPanel";
 import Calendar from "@/components/Calendar";
 import EventList from "@/components/EventList";
+import EventCard from "@/components/EventCard";
 import { getEventsForMonth } from "@/lib/utils";
+
+function searchEvents(events: MarathonEvent[], query: string): MarathonEvent[] {
+  const q = query.trim().toLowerCase();
+  if (!q) return [];
+  const terms = q.split(/\s+/);
+  return events.filter((e) =>
+    terms.every((term) =>
+      e.title.toLowerCase().includes(term) ||
+      e.location.toLowerCase().includes(term) ||
+      e.region.toLowerCase().includes(term) ||
+      e.eventDate.includes(term) ||
+      e.distances.some((d) => d.toLowerCase().includes(term)) ||
+      (e.organizer && e.organizer.toLowerCase().includes(term))
+    )
+  );
+}
 
 export default function Home() {
   const [allEvents, setAllEvents] = useState<MarathonEvent[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedRegions, setSelectedRegions] = useState<Region[]>([]);
   const [selectedDate, setSelectedDate] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState("");
 
   const now = new Date();
   const [year, setYear] = useState(now.getFullYear());
@@ -35,6 +54,13 @@ export default function Home() {
       : allEvents.filter((e) => selectedRegions.includes(e.region));
 
   const monthEvents = getEventsForMonth(filteredEvents, year, month);
+
+  const searchResults = useMemo(
+    () => searchEvents(filteredEvents, searchQuery),
+    [filteredEvents, searchQuery]
+  );
+
+  const isSearching = searchQuery.trim().length > 0;
 
   const handlePrevMonth = useCallback(() => {
     setMonth((m) => {
@@ -85,23 +111,46 @@ export default function Home() {
     <div className="min-h-screen">
       <Header />
       <main className="max-w-5xl mx-auto px-4 py-6 space-y-4">
+        <SearchBar value={searchQuery} onChange={setSearchQuery} />
         <FilterBar selected={selectedRegions} onChange={setSelectedRegions} />
-        <AlertPanel events={filteredEvents} onEventClick={handleAlertEventClick} />
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-          <Calendar
-            year={year}
-            month={month}
-            events={monthEvents}
-            selectedDate={selectedDate}
-            onDateSelect={setSelectedDate}
-            onPrevMonth={handlePrevMonth}
-            onNextMonth={handleNextMonth}
-            onToday={handleToday}
-          />
+
+        {isSearching ? (
           <div>
-            <EventList events={monthEvents} selectedDate={selectedDate} />
+            <h2 className="text-sm font-semibold text-white/90 mb-3">
+              검색 결과 <span className="text-white/60">{searchResults.length}건</span>
+            </h2>
+            {searchResults.length === 0 ? (
+              <div className="text-center py-12 text-white/40 text-sm">
+                검색 결과가 없습니다.
+              </div>
+            ) : (
+              <div className="space-y-3">
+                {searchResults.map((evt) => (
+                  <EventCard key={evt.id} event={evt} />
+                ))}
+              </div>
+            )}
           </div>
-        </div>
+        ) : (
+          <>
+            <AlertPanel events={filteredEvents} onEventClick={handleAlertEventClick} />
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+              <Calendar
+                year={year}
+                month={month}
+                events={monthEvents}
+                selectedDate={selectedDate}
+                onDateSelect={setSelectedDate}
+                onPrevMonth={handlePrevMonth}
+                onNextMonth={handleNextMonth}
+                onToday={handleToday}
+              />
+              <div>
+                <EventList events={monthEvents} selectedDate={selectedDate} />
+              </div>
+            </div>
+          </>
+        )}
       </main>
     </div>
   );
