@@ -314,10 +314,9 @@
     ],
     "organizer": "런앤런",
     "sourceUrl": "http://www.bucketrun.co.kr/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://www.bucketrun.co.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://www.bucketrun.co.kr/%EB%B2%84%ED%82%B7%EB%9F%B0/images/inc/image.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-입춘대길-제1회-춘천-소양강마라톤-2026-03-21",
@@ -760,7 +759,7 @@
     ],
     "organizer": "서울특별시",
     "sourceUrl": "http://seoulstrollerrun.co.kr/",
-    "registrationStatus": "접수예정",
+    "registrationStatus": "접수중",
     "registrationUrl": "http://seoulstrollerrun.co.kr/",
     "source": "마라톤GO",
     "posterUrl": "https://seoulstrollerrun.co.kr/img/meta_img.png"
@@ -1026,7 +1025,8 @@
     "sourceUrl": "http://yeongammrathon.kr/home/main.ubs",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://yeongammrathon.kr/home/main.ubs",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://yeongammrathon.kr/jsp/home/images/top_logo_b.png"
   },
   {
     "id": "marathongo-2026-왕인의-봄-영암벚꽃마라톤-2026-04-04",
@@ -1045,7 +1045,8 @@
     "sourceUrl": "http://yeongammrathon.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://yeongammrathon.kr",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://yeongammrathon.kr/jsp/home/images/top_logo_b.png"
   },
   {
     "id": "marathongo-safe-korea-제17회-대한경제마라톤대회-2026-04-04",
@@ -2566,7 +2567,7 @@
     ],
     "organizer": "용인특례시청, 용인신문",
     "sourceUrl": "http://yonginmarathon.net",
-    "registrationStatus": "접수예정",
+    "registrationStatus": "접수중",
     "registrationUrl": "http://yonginmarathon.net",
     "source": "마라톤GO",
     "posterUrl": "http://yonginmarathon.net/title_img.jpg"
@@ -2798,7 +2799,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://geoje100.creatorlink.net/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/233ce2d08c37af07ede3c185f67c4322/geoje100/650/32c2e4fa5ed325e6fef6966cb65ba2a6.jpg?_1772649943"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/233ce2d08c37af07ede3c185f67c4322/geoje100/650/32c2e4fa5ed325e6fef6966cb65ba2a6.jpg?_1772738166"
   },
   {
     "id": "marathongo-제18회-여명국제마라톤-2026-05-30",
@@ -3082,7 +3083,8 @@
     "sourceUrl": "http://phsteelrun.com",
     "registrationStatus": "접수중",
     "registrationUrl": "http://phsteelrun.com",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://phsteelrun.com/jsp/home/images/logo_bak.png"
   },
   {
     "id": "marathongo-제12회-시각장애인과-함께하는-어울림-마라톤-2026-06-13",
@@ -3308,8 +3310,7 @@
     "sourceUrl": "http://bamseomrun.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "http://bamseomrun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://bamseomrun.kr/%EB%9E%8C%EC%82%AC%EB%A5%B4%EC%8A%B5%EC%A7%80%20%EB%B0%A4%EC%84%AC%EB%9F%B0(%EA%B5%AC,%20%EC%98%A8%EC%97%90%EC%96%B4%EB%9F%B0%20for%20%EB%B0%A4%EC%84%AC)%20/images/inc/image.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제8회안산인왕산북악산trailrun-2026-07-05",
