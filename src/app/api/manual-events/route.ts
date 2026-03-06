@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { auth } from "@/auth";
+import { verifySessionToken } from "@/lib/auth";
 import type { MarathonEvent } from "@/lib/types";
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN!;
@@ -72,8 +72,8 @@ export async function GET() {
 
 // POST: 수동 대회 추가
 export async function POST(request: NextRequest) {
-  const session = await auth();
-  if (session?.user?.email !== process.env.ADMIN_EMAIL) {
+  const token = request.cookies.get("admin_session")?.value;
+  if (!token || !verifySessionToken(token)) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
@@ -104,8 +104,8 @@ export async function POST(request: NextRequest) {
 
 // DELETE: 수동 대회 삭제
 export async function DELETE(request: NextRequest) {
-  const session = await auth();
-  if (session?.user?.email !== process.env.ADMIN_EMAIL) {
+  const token = request.cookies.get("admin_session")?.value;
+  if (!token || !verifySessionToken(token)) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
