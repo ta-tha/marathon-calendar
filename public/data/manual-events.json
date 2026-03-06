@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "manual-포켓몬런-2026-in-seoul-2026-05-05",
+    "title": "포켓몬 런 2026 in Seoul",
+    "eventDate": "2026-05-05",
+    "registrationStart": "2026-03-03",
+    "registrationEnd": "2026-03-13",
+    "location": "뚝섬 한강공원 수변 무대",
+    "region": "서울",
+    "distances": ["8K", "5K"],
+    "fee": "75,000원",
+    "registrationUrl": "https://shop.tworld.co.kr",
+    "sourceUrl": "https://pokemonkorea.co.kr/PokemonRUN2026",
+    "registrationStatus": "접수예정",
+    "organizer": "Pokemon Korea / SK Telecom",
+    "posterUrl": "https://data1.pokemonkorea.co.kr/newdata/2026/02/2026-02-25_09-40-11-60997-1771980011.png",
+    "source": "수동등록"
+  }
+]

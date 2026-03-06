@@ -10,7 +10,6 @@ import Calendar from "@/components/Calendar";
 import EventList from "@/components/EventList";
 import EventCard from "@/components/EventCard";
 import { getEventsForMonth } from "@/lib/utils";
-import AdminModal from "@/components/AdminModal";
 
 function searchEvents(events: MarathonEvent[], query: string): MarathonEvent[] {
   const q = query.trim().toLowerCase();
@@ -39,7 +38,7 @@ export default function Home() {
   const [year, setYear] = useState(now.getFullYear());
   const [month, setMonth] = useState(now.getMonth() + 1);
 
-  const loadEvents = useCallback(() => {
+  useEffect(() => {
     Promise.all([
       fetch("/data/events.json").then((res) => res.json()),
       fetch("/data/manual-events.json")
@@ -56,8 +55,6 @@ export default function Home() {
       })
       .catch(() => setLoading(false));
   }, []);
-
-  useEffect(() => { loadEvents(); }, [loadEvents]);
 
   const filteredEvents =
     selectedRegions.length === 0
@@ -163,7 +160,6 @@ export default function Home() {
           </>
         )}
       </main>
-      <AdminModal onEventAdded={loadEvents} />
     </div>
   );
 }
