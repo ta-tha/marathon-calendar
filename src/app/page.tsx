@@ -39,10 +39,18 @@ export default function Home() {
   const [month, setMonth] = useState(now.getMonth() + 1);
 
   useEffect(() => {
-    fetch("/data/events.json")
-      .then((res) => res.json())
-      .then((data: MarathonEvent[]) => {
-        setAllEvents(data);
+    Promise.all([
+      fetch("/data/events.json").then((res) => res.json()),
+      fetch("/data/manual-events.json")
+        .then((res) => res.json())
+        .catch(() => []),
+    ])
+      .then(([crawled, manual]: [MarathonEvent[], MarathonEvent[]]) => {
+        const merged = [...crawled, ...manual].sort(
+          (a, b) =>
+            new Date(a.eventDate).getTime() - new Date(b.eventDate).getTime()
+        );
+        setAllEvents(merged);
         setLoading(false);
       })
       .catch(() => setLoading(false));
