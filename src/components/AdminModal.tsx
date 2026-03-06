@@ -1,10 +1,11 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useSession, signIn, signOut } from "next-auth/react";
+import { useState } from "react";
 import type { MarathonEvent, Region, RegistrationStatus } from "@/lib/types";
 import { REGIONS } from "@/lib/types";
 
-type ModalStep = "closed" | "password" | "choose" | "url" | "manual" | "preview";
+type ModalStep = "closed" | "choose" | "url" | "manual" | "preview";
 
 const REGISTRATION_STATUSES: RegistrationStatus[] = ["접수중", "접수예정", "접수마감"];
 const DISTANCE_OPTIONS = ["풀코스", "하프", "10K", "5K", "울트라"];
@@ -15,15 +16,15 @@ function generateId(title: string, eventDate: string) {
 }
 
 export default function AdminModal({ onEventAdded }: { onEventAdded: () => void }) {
+  const { data: session, status } = useSession();
+  const isAdmin = session?.user?.email === process.env.NEXT_PUBLIC_ADMIN_EMAIL;
+
   const [step, setStep] = useState<ModalStep>("closed");
-  const [authenticated, setAuthenticated] = useState(false);
-  const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
 
   // URL 등록
   const [scrapeUrl, setScrapeUrl] = useState("");
-  const [previewEvent, setPreviewEvent] = useState<Partial<MarathonEvent> | null>(null);
 
   // 직접 등록 폼
   const [title, setTitle] = useState("");
@@ -41,36 +42,10 @@ export default function AdminModal({ onEventAdded }: { onEventAdded: () => void 
   const [organizer, setOrganizer] = useState("");
   const [posterUrl, setPosterUrl] = useState("");
 
-  // 인증 상태 확인
-  useEffect(() => {
-    fetch("/api/admin/auth").then((r) => r.json()).then((d) => {
-      if (d.authenticated) setAuthenticated(true);
-    }).catch(() => {});
-  }, []);
+  // 관리자가 아니면 버튼 자체를 숨김
+  if (status === "loading" || !isAdmin) return null;
 
-  const handleOpen = () => {
-    setError("");
-    setStep(authenticated ? "choose" : "password");
-  };
-
-  const handleLogin = async () => {
-    setLoading(true);
-    setError("");
-    const res = await fetch("/api/admin/auth", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ password }),
-    });
-    const data = await res.json();
-    if (res.ok) {
-      setAuthenticated(true);
-      setPassword("");
-      setStep("choose");
-    } else {
-      setError(data.error);
-    }
-    setLoading(false);
-  };
+  const handleOpen = () => { setError(""); setStep("choose"); };
 
   const handleScrape = async () => {
     setLoading(true);
@@ -82,8 +57,6 @@ export default function AdminModal({ onEventAdded }: { onEventAdded: () => void 
     });
     const data = await res.json();
     if (res.ok) {
-      setPreviewEvent(data.event);
-      // 프리뷰 데이터를 폼에도 채우기 (수정 가능하도록)
       const evt = data.event;
       setTitle(evt.title || "");
       setEventDate(evt.eventDate || "");
@@ -151,7 +124,7 @@ export default function AdminModal({ onEventAdded }: { onEventAdded: () => void 
     setTitle(""); setEventDate(""); setRegistrationStart(""); setRegistrationEnd("");
     setLocation(""); setRegion("서울"); setDistances([]); setCustomDistance("");
     setFee(""); setRegistrationUrl(""); setSourceUrl(""); setRegistrationStatus("접수중");
-    setOrganizer(""); setPosterUrl(""); setScrapeUrl(""); setPreviewEvent(null); setError("");
+    setOrganizer(""); setPosterUrl(""); setScrapeUrl(""); setError("");
   };
 
   const close = () => { setStep("closed"); resetForm(); };
@@ -175,29 +148,6 @@ export default function AdminModal({ onEventAdded }: { onEventAdded: () => void 
   return (
     <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50 p-4" onClick={close}>
       <div className="glass-modal rounded-2xl w-full max-w-lg max-h-[85vh] overflow-y-auto animate-modal-in" onClick={(e) => e.stopPropagation()}>
-
-        {/* 비밀번호 입력 */}
-        {step === "password" && (
-          <div className="p-6 space-y-4">
-            <h2 className="text-lg font-bold text-white">관리자 인증</h2>
-            <input
-              type="password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              onKeyDown={(e) => e.key === "Enter" && handleLogin()}
-              placeholder="관리자 비밀번호"
-              className="w-full bg-white/10 border border-white/20 rounded-lg px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-white/40"
-              autoFocus
-            />
-            {error && <p className="text-red-300 text-xs">{error}</p>}
-            <div className="flex gap-2">
-              <button onClick={close} className="flex-1 glass-btn-outline px-4 py-2.5 rounded-xl text-sm">취소</button>
-              <button onClick={handleLogin} disabled={loading} className="flex-1 glass-btn-primary px-4 py-2.5 rounded-xl text-sm font-semibold">
-                {loading ? "확인 중..." : "로그인"}
-              </button>
-            </div>
-          </div>
-        )}
 
         {/* 등록 방식 선택 */}
         {step === "choose" && (

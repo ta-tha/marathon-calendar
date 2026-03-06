@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { verifySessionToken } from "@/lib/auth";
+import { auth } from "@/auth";
 import axios from "axios";
 import * as cheerio from "cheerio";
 import type { MarathonEvent, Region } from "@/lib/types";
@@ -72,8 +72,8 @@ function extractLocation(text: string): string {
 }
 
 export async function POST(request: NextRequest) {
-  const token = request.cookies.get("admin_session")?.value;
-  if (!token || !verifySessionToken(token)) {
+  const session = await auth();
+  if (session?.user?.email !== process.env.ADMIN_EMAIL) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
