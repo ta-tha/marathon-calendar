@@ -1,62 +1,5 @@
 [
   {
-    "id": "marathongo-2026-제1회-보은-보청천-마라톤-2026-03-14",
-    "title": "2026 제1회 보은 보청천 마라톤",
-    "eventDate": "2026-03-14",
-    "registrationStart": "2025-11-27",
-    "registrationEnd": "2026-02-14",
-    "location": "보은 동다리 하상주차장",
-    "region": "충북",
-    "distances": [
-      "하프",
-      "10K",
-      "5K"
-    ],
-    "organizer": "전국마라톤협회",
-    "sourceUrl": "http://mara1080.com/event/0566e5c2-e218-436f-b000-61cb42ab591d",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://mara1080.com/event/0566e5c2-e218-436f-b000-61cb42ab591d",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-제20회-창녕부곡-온천마라톤-2026-03-14",
-    "title": "제20회 창녕부곡 온천마라톤",
-    "eventDate": "2026-03-14",
-    "registrationStart": "2025-12-08",
-    "registrationEnd": "2025-12-01",
-    "location": "창녕스포츠파크5구장",
-    "region": "경남",
-    "distances": [
-      "하프",
-      "10K",
-      "5K"
-    ],
-    "organizer": "(주)경남신문사",
-    "sourceUrl": "http://www.cngmarathon.co.kr",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://www.cngmarathon.co.kr",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-2026-금산-인삼-웰빙-마라톤대회-2026-03-14",
-    "title": "2026 금산 인삼 웰빙 마라톤대회",
-    "eventDate": "2026-03-14",
-    "registrationStart": "2026-01-24",
-    "registrationEnd": "2026-02-28",
-    "location": "금산세계인삼엑스포주차장",
-    "region": "충남",
-    "distances": [
-      "하프",
-      "10K",
-      "5K"
-    ],
-    "organizer": "금산군 체육회",
-    "sourceUrl": "http://mara1080.com/event/db8bfa91-d6de-4591-9f19-8f48da3adc7b",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://mara1080.com/event/db8bfa91-d6de-4591-9f19-8f48da3adc7b",
-    "source": "마라톤GO"
-  },
-  {
     "id": "marathongo-2026-서울마라톤-2026-03-15",
     "title": "2026 서울마라톤",
     "eventDate": "2026-03-15",
@@ -463,7 +406,7 @@
     ],
     "organizer": "유러닝페스타 운영위원회",
     "sourceUrl": "http://urfesta.com",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://urfesta.com",
     "source": "마라톤GO"
   },
@@ -575,8 +518,7 @@
     "sourceUrl": "http://seoulstrollerrun.co.kr/",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://seoulstrollerrun.co.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "https://seoulstrollerrun.co.kr/img/meta_img.png?v=2026"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-팀-k리그-런-2026-03-28",
@@ -593,8 +535,7 @@
     "sourceUrl": "http://teamkleaguerun.com",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://teamkleaguerun.com",
-    "source": "마라톤GO",
-    "posterUrl": "https://www.teamkleaguerun.com/img/meta-img.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제25회-합천벚꽃마라톤-2026-03-29",
@@ -781,8 +722,7 @@
     "sourceUrl": "http://springrun.kr/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://springrun.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://springrun.kr/img/2024/og_img_2026.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-장수트레일레이스-spring-2026-04-03",
@@ -801,8 +741,7 @@
     "sourceUrl": "http://rocknrun.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://rocknrun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S2023060511d467df56b65/3cfa0641fdea7.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제33회-경주벚꽃마라톤-2026-04-04",
@@ -898,8 +837,7 @@
     "sourceUrl": "http://www.dnewsrun.co.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.dnewsrun.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://dnewsrun.co.kr/ko/images/company_img_2026.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제17회-대한경제마라톤-2026-04-04",
@@ -1225,8 +1163,7 @@
     "sourceUrl": "http://ycrun.com/",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://ycrun.com/",
-    "source": "마라톤GO",
-    "posterUrl": "http://ycrun.com/images/og_image.png?251222"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-mbn-선셋마라톤-영종-2026-04-11",
@@ -1780,8 +1717,7 @@
     "sourceUrl": "http://sejongrun.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://sejongrun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://sejongrun.kr/images/og_image.png?260103"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제24회-경기마라톤-2026-04-19",
@@ -1877,8 +1813,7 @@
     "sourceUrl": "http://sybrun.com",
     "registrationStatus": "접수중",
     "registrationUrl": "http://sybrun.com",
-    "source": "마라톤GO",
-    "posterUrl": "http://sybrun.com/images/og_image.png?260216"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제-11회-기적의마라톤-2026-04-19",
@@ -2065,8 +2000,7 @@
     "sourceUrl": "http://phrun.co.kr/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://phrun.co.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://phrun.co.kr/images/og_image.png?202601"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-속리산-문장대trail-running-2026-04-26",
@@ -2529,8 +2463,7 @@
     "sourceUrl": "http://soaam.runningdr.co.kr/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://soaam.runningdr.co.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://soaam.runningdr.co.kr/images/common/layout/top_logo.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-무의도구석구석-국제트레일런-2026-05-10",
@@ -2854,7 +2787,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://geoje100.creatorlink.net/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/233ce2d08c37af07ede3c185f67c4322/geoje100/650/32c2e4fa5ed325e6fef6966cb65ba2a6.jpg?_1773513358"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/233ce2d08c37af07ede3c185f67c4322/geoje100/650/32c2e4fa5ed325e6fef6966cb65ba2a6.jpg?_1773599826"
   },
   {
     "id": "marathongo-제18회-여명국제마라톤-2026-05-30",
@@ -3009,7 +2942,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://bamseom.com",
     "source": "마라톤GO",
-    "posterUrl": "http://bamseom.com/img/2024/sns_img_2026.jpg"
+    "posterUrl": "http://bamseom.com/img/2024/sns_img_202603.jpg"
   },
   {
     "id": "marathongo-2026-물사랑-낙동강-200km울트라마라톤-2026-06-05",
@@ -3118,8 +3051,7 @@
     "sourceUrl": "http://amarunsb.com/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://amarunsb.com/",
-    "source": "마라톤GO",
-    "posterUrl": "http://amarunsb.com/images/og_image.png?260302"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제30회-제주관광마라톤-축제-2026-06-07",
@@ -3353,8 +3285,7 @@
     "sourceUrl": "http://cjapplemarathon.com/index.asp",
     "registrationStatus": "접수중",
     "registrationUrl": "http://cjapplemarathon.com/index.asp",
-    "source": "마라톤GO",
-    "posterUrl": "http://cjapplemarathon.com/images/og_image.png?260210"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제16회-국민행복마라톤-2026-06-20",
@@ -3686,8 +3617,7 @@
     "sourceUrl": "http://sandrun.co.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "http://sandrun.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S202508276bf66922ab7e0/f44e97c743e4f.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-빵트레일런-2026-2026-09-12",
@@ -3804,8 +3734,7 @@
     "sourceUrl": "http://gprun.com/",
     "registrationStatus": "접수예정",
     "registrationUrl": "http://gprun.com/",
-    "source": "마라톤GO",
-    "posterUrl": "http://gprun.com/images/common/visual/main/001.jpg?2024"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제2회-아산이순신-트레일-2026-10-03",
@@ -3862,8 +3791,7 @@
     "sourceUrl": "http://amarunhs.com",
     "registrationStatus": "접수예정",
     "registrationUrl": "http://amarunhs.com",
-    "source": "마라톤GO",
-    "posterUrl": "http://amarunhs.com/images/og_image.png?250609"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제7회-천안삼거리-흥타령울트라마라톤-2026-10-10",
@@ -3981,8 +3909,7 @@
     "sourceUrl": "https://asiarun.kr",
     "registrationStatus": "접수예정",
     "registrationUrl": "https://asiarun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://asiarun.kr/images/og_image.png?260210"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-jtbc-마라톤-2026-11-01",
