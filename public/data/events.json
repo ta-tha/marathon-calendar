@@ -765,8 +765,7 @@
     "sourceUrl": "http://yeongammrathon.kr/home/main.ubs",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://yeongammrathon.kr/home/main.ubs",
-    "source": "마라톤GO",
-    "posterUrl": "http://yeongammrathon.kr/jsp/home/images/top_logo_b.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-왕인의-봄-영암벚꽃마라톤-2026-04-04",
@@ -785,8 +784,7 @@
     "sourceUrl": "http://yeongammrathon.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://yeongammrathon.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://yeongammrathon.kr/jsp/home/images/top_logo_b.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-safe-korea-제17회-대한경제마라톤대회-2026-04-04",
@@ -2431,7 +2429,8 @@
     "sourceUrl": "http://coffeebbangrun.com/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://coffeebbangrun.com/",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://cdn.imweb.me/upload/S20250215c07a2c362f391/9df5189bb9122.png"
   },
   {
     "id": "marathongo-2026-제23회-보령머드임해마라톤-2026-05-09",
@@ -2852,7 +2851,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://geoje100.creatorlink.net/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/233ce2d08c37af07ede3c185f67c4322/geoje100/650/32c2e4fa5ed325e6fef6966cb65ba2a6.jpg?_1773946585"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/233ce2d08c37af07ede3c185f67c4322/geoje100/650/32c2e4fa5ed325e6fef6966cb65ba2a6.jpg?_1774032306"
   },
   {
     "id": "marathongo-제18회-여명국제마라톤-2026-05-30",
@@ -3781,7 +3780,7 @@
     "registrationStatus": "접수예정",
     "registrationUrl": "http://bbangtrailrun.co.kr",
     "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S202407112a5d9ce5e8fdc/78f2b3c4bd553.png"
+    "posterUrl": "https://cdn.imweb.me/upload/S202407112a5d9ce5e8fdc/87e0dd002389d.png"
   },
   {
     "id": "marathongo-2026-양양-강변-전국-마라톤-2026-09-12",
