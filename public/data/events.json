@@ -893,7 +893,8 @@
     "sourceUrl": "http://ehompy0669.ehompy.co.kr/main",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://ehompy0669.ehompy.co.kr/main",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://ehompy0669.ehompy.co.kr/thum_img/ehompy0669/og_img/kakao_og_img_12001769989979.png"
   },
   {
     "id": "marathongo-소외계층돕기-제15회-행복한가게-마라톤-2026-04-11",
@@ -1502,7 +1503,7 @@
     ],
     "organizer": "마포구체육회, 숭문고총동문회",
     "sourceUrl": "http://sybrun.com",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://sybrun.com",
     "source": "마라톤GO",
     "posterUrl": "http://sybrun.com/images/og_image.png?260216"
@@ -2515,7 +2516,7 @@
     ],
     "organizer": "hy",
     "sourceUrl": "http://www.harurun.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://www.harurun.co.kr",
     "source": "마라톤GO",
     "posterUrl": "https://harurun.co.kr/img/share_thumb_2026.png?ver=20260225_1"
@@ -2631,7 +2632,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://geoje100.creatorlink.net/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/233ce2d08c37af07ede3c185f67c4322/geoje100/650/32c2e4fa5ed325e6fef6966cb65ba2a6.jpg?_1774551795"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/233ce2d08c37af07ede3c185f67c4322/geoje100/650/32c2e4fa5ed325e6fef6966cb65ba2a6.jpg?_1774637636"
   },
   {
     "id": "marathongo-제18회-여명국제마라톤-2026-05-30",
