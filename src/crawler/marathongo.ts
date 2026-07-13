@@ -51,34 +51,89 @@ function generateId(name: string, date: string): string {
   return `marathongo-${slug}-${date}`;
 }
 
+/**
+ * raceName 키 위치에서 역방향으로 배열 리터럴의 시작(`[`)을 찾는다.
+ * 객체의 첫 필드가 무엇이든(`[{raceName:`, `[{id:1,raceName:` 등) 대응하기 위함.
+ * 배열 리터럴이 아니면(예: `e.raceName` 같은 참조) -1.
+ */
+function findArrayStart(src: string, keyIdx: number): number {
+  for (let i = keyIdx; i >= 0; i--) {
+    const c = src[i];
+    if (c === "{") {
+      let j = i - 1;
+      while (j >= 0 && /\s/.test(src[j])) j--;
+      return src[j] === "[" ? j : -1;
+    }
+    // 객체 시작을 만나기 전에 닫는 괄호가 나오면 리터럴 내부가 아니다
+    if (c === "}" || c === "]" || c === ";") return -1;
+  }
+  return -1;
+}
+
+/** 문자열 리터럴을 건너뛰며 짝이 맞는 닫는 대괄호를 찾는다 */
+function findArrayEnd(src: string, startIdx: number): number {
+  let depth = 0;
+  let quote: string | null = null;
+
+  for (let i = startIdx; i < src.length; i++) {
+    const c = src[i];
+
+    if (quote) {
+      if (c === "\\") i++;
+      else if (c === quote) quote = null;
+      continue;
+    }
+
+    if (c === '"' || c === "'" || c === "`") quote = c;
+    else if (c === "[") depth++;
+    else if (c === "]" && --depth === 0) return i + 1;
+  }
+  return -1;
+}
+
+/**
+ * 번들에는 국내 대회 배열과 해외 대회 배열이 함께 들어있다.
+ * 해외 배열은 raceDetailUrl 없이 ogLink를 쓰므로 이걸로 구분한다.
+ */
+function isDomesticRaceArray(value: unknown): value is RawRace[] {
+  if (!Array.isArray(value) || value.length === 0) return false;
+
+  const sample = value.slice(0, 10);
+  const domestic = sample.filter(
+    (r) => r && typeof r === "object" && "raceDetailUrl" in r
+  );
+  return domestic.length > sample.length / 2;
+}
+
 /** JS 번들에서 대회 데이터 배열을 추출하고 vm으로 안전하게 평가 */
 function extractRacesFromBundle(src: string): RawRace[] {
-  const startIdx = src.indexOf("[{raceName:");
-  if (startIdx === -1) return [];
+  const KEY = "raceName:";
+  let searchFrom = 0;
 
-  // 매칭되는 닫는 대괄호 찾기
-  let depth = 0;
-  let endIdx = startIdx;
-  for (let i = startIdx; i < src.length; i++) {
-    if (src[i] === "[") depth++;
-    if (src[i] === "]") {
-      depth--;
-      if (depth === 0) {
-        endIdx = i + 1;
-        break;
+  // raceName이 여러 번 등장할 수 있으므로 실제로 파싱되는 배열이 나올 때까지 시도
+  for (;;) {
+    const keyIdx = src.indexOf(KEY, searchFrom);
+    if (keyIdx === -1) return [];
+    searchFrom = keyIdx + KEY.length;
+
+    const startIdx = findArrayStart(src, keyIdx);
+    if (startIdx === -1) continue;
+
+    const endIdx = findArrayEnd(src, startIdx);
+    if (endIdx === -1) continue;
+
+    try {
+      const result = vm.runInNewContext(
+        `(${src.substring(startIdx, endIdx)})`,
+        {},
+        { timeout: 5000 }
+      );
+      if (isDomesticRaceArray(result)) {
+        return result as RawRace[];
       }
+    } catch {
+      // 이 후보는 배열 리터럴이 아니었다 - 다음 raceName 위치로
     }
-  }
-
-  const arrayStr = src.substring(startIdx, endIdx);
-
-  // vm.runInNewContext로 JS 객체 배열을 안전하게 평가
-  try {
-    const result = vm.runInNewContext(`(${arrayStr})`, {}, { timeout: 5000 });
-    return result as RawRace[];
-  } catch (e) {
-    console.error("vm evaluation failed:", e);
-    return [];
   }
 }
 

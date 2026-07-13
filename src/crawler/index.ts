@@ -86,6 +86,47 @@ async function fetchPosterUrls(
   return events;
 }
 
+/** 기존 events.json의 이벤트 수 (없거나 깨졌으면 0) */
+function existingEventCount(outputPath: string): number {
+  try {
+    const parsed = JSON.parse(fs.readFileSync(outputPath, "utf-8"));
+    return Array.isArray(parsed) ? parsed.length : 0;
+  } catch {
+    return 0;
+  }
+}
+
+/**
+ * 크롤 결과가 신뢰할 만한지 검증한다.
+ *
+ * 소스 사이트가 구조를 바꾸면 파서는 조용히 0개를 리턴한다. 그대로 저장하면
+ * events.json이 빈 배열로 덮어써지고 사이트에서 대회가 전부 사라진다.
+ * (2026-03 ~ 07 실제로 발생) 그래서 결과가 의심스러우면 저장하지 않고 실패시킨다.
+ */
+function assertResultIsSane(newCount: number, oldCount: number) {
+  if (newCount === 0) {
+    throw new Error(
+      "크롤 결과가 0개입니다. 소스 사이트 구조가 바뀌었을 가능성이 높습니다. " +
+        "events.json을 덮어쓰지 않고 중단합니다."
+    );
+  }
+
+  // 기존 데이터가 충분히 쌓여 있는데 절반 이하로 급감하면 파싱 사고로 간주
+  const SHRINK_LIMIT = 0.5;
+  if (oldCount >= 20 && newCount < oldCount * SHRINK_LIMIT) {
+    if (process.env.ALLOW_SHRINK === "1") {
+      console.warn(
+        `경고: 이벤트가 ${oldCount} → ${newCount}개로 급감했지만 ALLOW_SHRINK=1이라 진행합니다.`
+      );
+      return;
+    }
+    throw new Error(
+      `이벤트가 ${oldCount} → ${newCount}개로 급감했습니다(50% 초과 감소). ` +
+        "파싱 오류가 의심되어 중단합니다. 의도한 변화라면 ALLOW_SHRINK=1로 재실행하세요."
+    );
+  }
+}
+
 async function main() {
   console.log("=== Marathon Calendar Crawler ===");
   console.log(`Start time: ${new Date().toISOString()}\n`);
@@ -106,9 +147,6 @@ async function main() {
         new Date(a.eventDate).getTime() - new Date(b.eventDate).getTime()
     );
 
-    // Fetch poster images from og:image
-    await fetchPosterUrls(uniqueEvents);
-
     // Save to public/data/events.json
     const outputDir = path.resolve(__dirname, "../../public/data");
     if (!fs.existsSync(outputDir)) {
@@ -116,6 +154,15 @@ async function main() {
     }
 
     const outputPath = path.join(outputDir, "events.json");
+
+    // 저장 전 검증 - 실패하면 기존 events.json을 그대로 둔다
+    const oldCount = existingEventCount(outputPath);
+    assertResultIsSane(uniqueEvents.length, oldCount);
+    console.log(`\n검증 통과: ${oldCount} → ${uniqueEvents.length} events`);
+
+    // 포스터 이미지는 검증을 통과한 결과에 대해서만 수집 (느린 작업)
+    await fetchPosterUrls(uniqueEvents);
+
     fs.writeFileSync(
       outputPath,
       JSON.stringify(uniqueEvents, null, 2),
