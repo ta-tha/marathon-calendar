@@ -178,7 +178,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://jyd.creatorlink.net",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/1f10dee023623c289ff8e4051b0fa4f3/jyd/650/ef635d7e98be58e9313676a83901218f.png?_1784921125"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/1f10dee023623c289ff8e4051b0fa4f3/jyd/650/ef635d7e98be58e9313676a83901218f.png?_1785006434"
   },
   {
     "id": "marathongo-2026-장수-나이트-트레일-2026-08-15",
@@ -319,7 +319,8 @@
     "sourceUrl": "http://www.runnerking.com",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.runnerking.com",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://cdn.imweb.me/upload/S202004134291ef7e7f84c/834e5bb94363d.png"
   },
   {
     "id": "marathongo-2026대구세계마스터즈-10km대회-2026-08-23",
@@ -429,7 +430,8 @@
     "sourceUrl": "http://seoulhalfrun.kr/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://seoulhalfrun.kr/",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://seoulhalfrun.kr/img/2024/og_img_202608.jpg"
   },
   {
     "id": "marathongo-제3회-go대관령-국제-트레일런-2026-08-30",
@@ -448,7 +450,8 @@
     "sourceUrl": "http://daegwallyeongrun.com",
     "registrationStatus": "접수중",
     "registrationUrl": "http://daegwallyeongrun.com",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://cdn.imweb.me/upload/S20240606fb90d79969e70/b5e9d0dcec56f.png"
   },
   {
     "id": "marathongo-제16회-성북구청장배육상대회-2026-08-30",
@@ -887,7 +890,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://speedtrailrun.kr/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/a5e7d71783ddc98b29857ebc97c85165/speedagencytrailrun/650/30a9ef85df9009ad838dccf1140f8b76.png?_1784921156"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/a5e7d71783ddc98b29857ebc97c85165/speedagencytrailrun/650/30a9ef85df9009ad838dccf1140f8b76.png?_1785006468"
   },
   {
     "id": "marathongo-2026-장수-레드푸드레이스-2026-09-12",
@@ -2375,7 +2378,7 @@
     ],
     "organizer": "목포MBC / 마라톤세상",
     "sourceUrl": "http://www.greenstep.co.kr/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://www.greenstep.co.kr/",
     "source": "마라톤GO"
   },
@@ -2473,7 +2476,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-mel1-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=F3eixJcAGfUQ7kNvwH4OZty&_nc_oc=AdomqsGjQy7kG01D1bOZjUu_slI12_BKj-8gTZh9HVBUd2ruGwoT_8nZfYHbgTuD6WI&_nc_zt=23&_nc_ht=scontent-mel1-1.xx&_nc_gid=hYBYTubPZCR2jFG4HTykzg&_nc_ss=73100&oh=00_AQCRXL57sYOWdvncF5NciR64sysoRh3Anr38ZySgsz1CXg&oe=6A697E4E"
+    "posterUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=3lDtqSOwuTkQ7kNvwHn41H4&_nc_oc=AdrLCnuH0aZh67YCv5FlOFTV_aS6LLZ8pjaBKrnigZ89379Cl27ATKVaraxkRoMNcqQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ZsfHb3DBy6GIh5sw-Q8yzw&_nc_ss=73100&oh=00_AQBwRI20mZulkgx62RbC4bPK9511NXjnzy-6Ua9l8iEWcA&oe=6A6ACFCE"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -3118,7 +3121,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1784921235"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1785006556"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
