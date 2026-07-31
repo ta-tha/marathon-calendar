@@ -50,7 +50,7 @@
     ],
     "organizer": "러너블",
     "sourceUrl": "http://insiderun.me",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://insiderun.me",
     "source": "마라톤GO",
     "posterUrl": "https://cdn.imweb.me/upload/S202509238dd548dc951b6/779aa2f8c2c7a.png"
@@ -160,7 +160,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://jyd.creatorlink.net",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/1f10dee023623c289ff8e4051b0fa4f3/jyd/650/ef635d7e98be58e9313676a83901218f.png?_1785439594"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/1f10dee023623c289ff8e4051b0fa4f3/jyd/650/ef635d7e98be58e9313676a83901218f.png?_1785525885"
   },
   {
     "id": "marathongo-2026-장수-나이트-트레일-2026-08-15",
@@ -451,7 +451,8 @@
     "sourceUrl": "http://daegwallyeongrun.com",
     "registrationStatus": "접수중",
     "registrationUrl": "http://daegwallyeongrun.com",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://cdn.imweb.me/upload/S20240606fb90d79969e70/b5e9d0dcec56f.png"
   },
   {
     "id": "marathongo-제16회-성북구청장배육상대회-2026-08-30",
@@ -887,7 +888,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://speedtrailrun.kr/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/a5e7d71783ddc98b29857ebc97c85165/speedagencytrailrun/650/30a9ef85df9009ad838dccf1140f8b76.png?_1785439626"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/a5e7d71783ddc98b29857ebc97c85165/speedagencytrailrun/650/30a9ef85df9009ad838dccf1140f8b76.png?_1785525919"
   },
   {
     "id": "marathongo-2026-장수-레드푸드레이스-2026-09-12",
@@ -1173,8 +1174,7 @@
     "sourceUrl": "http://www.cyber-run.com",
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cyber-run.com",
-    "source": "마라톤GO",
-    "posterUrl": "http://www.cyber-run.com/2026%20%EC%A0%9C18%ED%9A%8C%20%EC%82%AC%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%86%A0%20%EC%88%98%ED%98%B8%20%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8C%80%ED%9A%8C/images/inc/image.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-안양천-하프-마라톤-2026-09-19",
@@ -1269,7 +1269,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://kgseasiderun.co.kr/",
     "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S20260102e8f00c9d853e7/6c15b1ed7729f.png"
+    "posterUrl": "https://cdn.imweb.me/upload/S20260102e8f00c9d853e7/db069b8375eba.png"
   },
   {
     "id": "marathongo-2026-무한도전-run-in-경주-2026-09-19",
@@ -1421,7 +1421,7 @@
     ],
     "organizer": "울산광역시 남구 육상연맹",
     "sourceUrl": "http://modern-infinity-9e6.notion.site/2026-395918810cc28075b602c0e076d8d3ea",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://modern-infinity-9e6.notion.site/2026-395918810cc28075b602c0e076d8d3ea",
     "source": "마라톤GO",
     "posterUrl": "https://app.notion.com/images/meta/default.png"
@@ -1803,7 +1803,7 @@
     ],
     "organizer": "뉴발란스",
     "sourceUrl": "http://www.nbkorea.com/launchingCalendar/detail.action?listStatus=H&launchingIdx=3117",
-    "registrationStatus": "접수예정",
+    "registrationStatus": "접수중",
     "registrationUrl": "http://www.nbkorea.com/launchingCalendar/detail.action?listStatus=H&launchingIdx=3117",
     "source": "마라톤GO"
   },
@@ -1918,7 +1918,7 @@
     ],
     "organizer": "-",
     "sourceUrl": "https://hangeulrun.com/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "https://hangeulrun.com/",
     "source": "마라톤GO",
     "posterUrl": "https://hangeulrun.com/img/meta-img.png?v=202607"
@@ -2265,7 +2265,7 @@
     ],
     "organizer": "-",
     "sourceUrl": "https://bjlee.casports.or.kr/",
-    "registrationStatus": "접수예정",
+    "registrationStatus": "접수중",
     "registrationUrl": "https://bjlee.casports.or.kr/",
     "source": "마라톤GO",
     "posterUrl": "https://bjlee.casports.or.kr/title_img2026.jpg"
@@ -2597,7 +2597,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=7AIwJJUlOJAQ7kNvwH551CY&_nc_oc=AdoG0dB57SA7vtm2HqjhtrfmwF4Fq-gVofTogEvsn9XnIVpaZCpSGCPcxA__khN3IQo&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=bT-XFyLbxnmlBTj1aHhwKw&_nc_ss=73100&oh=00_AQH1FyjJdSOc4dcTc7xrB3YG8cp4kFmxMTTl6nNu9D1nOQ&oe=6A71674E"
+    "posterUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=IDcezuwD7asQ7kNvwEb9fgA&_nc_oc=AdpYNul5pAkG8TFd8FyKYJvgw5D7kcQec8If8Ufz5DJ96pHyAVEzIV9wA2f1j0lAwDQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=VyjcHhwvwa5o5BTLK49H-Q&_nc_ss=73100&oh=00_AQFt6O0UGiD7w0_UeEHuiTmwHq9Iy8CVtvy1KwpD8l5t-w&oe=6A72B8CE"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -2707,7 +2707,7 @@
     ],
     "organizer": "세종시 육상연맹",
     "sourceUrl": "https://sejongrun26.com/",
-    "registrationStatus": "접수예정",
+    "registrationStatus": "접수중",
     "registrationUrl": "https://sejongrun26.com/",
     "source": "마라톤GO",
     "posterUrl": "https://sejongrun26.com/image/og.jpg"
@@ -3258,7 +3258,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1785439730"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1785526020"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
