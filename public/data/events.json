@@ -1,113 +1,5 @@
 [
   {
-    "id": "marathongo-제38회-지리산화대종주-trail-run-2026-08-15",
-    "title": "제38회 지리산화대종주 Trail Run",
-    "eventDate": "2026-08-15",
-    "registrationStart": "2025-12-05",
-    "registrationEnd": "2028-07-31",
-    "location": "화엄사주차장",
-    "region": "전남",
-    "distances": [
-      "48km",
-      "40km"
-    ],
-    "organizer": "(사)한국산악마라톤연맹",
-    "sourceUrl": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250820150217&csno=20191209143330#baseline",
-    "registrationStatus": "접수중",
-    "registrationUrl": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250820150217&csno=20191209143330#baseline",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-영남알프스9봉-트레일-레이스-2026-08-15",
-    "title": "영남알프스9봉 트레일 레이스",
-    "eventDate": "2026-08-15",
-    "registrationStart": "2026-04-01",
-    "registrationEnd": "2026-07-15",
-    "location": "울주군 등억알프스온천호텔(복합센터부근)",
-    "region": "경남",
-    "distances": [
-      "9봉 85k"
-    ],
-    "organizer": "JYD자연을달린다",
-    "sourceUrl": "http://jyd.creatorlink.net",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://jyd.creatorlink.net",
-    "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/1f10dee023623c289ff8e4051b0fa4f3/jyd/650/ef635d7e98be58e9313676a83901218f.png?_1786818537"
-  },
-  {
-    "id": "marathongo-2026-장수-나이트-트레일-2026-08-15",
-    "title": "2026 장수 나이트 트레일",
-    "eventDate": "2026-08-15",
-    "registrationStart": "2026-05-15",
-    "registrationEnd": "2026-07-31",
-    "location": "장수종합경기장",
-    "region": "전북",
-    "distances": [
-      "38K-P"
-    ],
-    "organizer": "(주)락앤런",
-    "sourceUrl": "http://rocknrun.kr",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://rocknrun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S2023060511d467df56b65/3cfa0641fdea7.png"
-  },
-  {
-    "id": "marathongo-2026-안양천-달빛-나이트런-2026-08-15",
-    "title": "2026 안양천 달빛 나이트런",
-    "eventDate": "2026-08-15",
-    "registrationStart": "2026-06-05",
-    "registrationEnd": "2026-08-06",
-    "location": "신정교 하부 영롱이 억새구장",
-    "region": "서울",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "(사)대한이에스지협회",
-    "sourceUrl": "http://moonnightrun.kr/",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://moonnightrun.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://moonnightrun.kr/img/night_og_img.jpg"
-  },
-  {
-    "id": "marathongo-2026-전마협-광복절-무료-초청-마라톤-2026-08-15",
-    "title": "2026 전마협 광복절 무료 초청 마라톤",
-    "eventDate": "2026-08-15",
-    "registrationStart": "2026-06-15",
-    "registrationEnd": "2026-07-31",
-    "location": "대전엑스포다리 밑",
-    "region": "대전",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "전국마라톤협회",
-    "sourceUrl": "http://mara1080.com/event/9e568eef-64ff-4548-881f-3a420689dece",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://mara1080.com/event/9e568eef-64ff-4548-881f-3a420689dece",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-2026-incheon-night-race-2026-08-15",
-    "title": "2026 INCHEON NIGHT RACE",
-    "eventDate": "2026-08-15",
-    "registrationStart": "2026-07-07",
-    "registrationEnd": "2026-08-08",
-    "location": "인천 영정구 중산동 1946",
-    "region": "인천",
-    "distances": [
-      "8.15km"
-    ],
-    "organizer": "국민건강진흥원",
-    "sourceUrl": "http://icnr.kr",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://icnr.kr",
-    "source": "마라톤GO"
-  },
-  {
     "id": "marathongo-2026happy700평창대관령전국하프마라톤-2026-08-16",
     "title": "2026Happy700평창대관령전국하프마라톤",
     "eventDate": "2026-08-16",
@@ -488,8 +380,7 @@
     "sourceUrl": "http://runbs.co.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://runbs.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://runbs.co.kr/images/og_image.jpg?20260715"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-하반기-just-run10-세종-2026-09-05",
@@ -546,8 +437,7 @@
     "sourceUrl": "http://amarunsb.com/",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://amarunsb.com/",
-    "source": "마라톤GO",
-    "posterUrl": "http://amarunsb.com/images/og_image.png?260305"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제24회-청광종주trailrunning-2026-09-06",
@@ -774,8 +664,7 @@
     "sourceUrl": "http://whiterun.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://whiterun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://whiterun.kr/images/og_image.png?260212"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-에너지-히어로-레이스-2026-09-12",
@@ -813,7 +702,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://speedtrailrun.kr/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/a5e7d71783ddc98b29857ebc97c85165/speedagencytrailrun/650/30a9ef85df9009ad838dccf1140f8b76.png?_1786818573"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/a5e7d71783ddc98b29857ebc97c85165/speedagencytrailrun/650/30a9ef85df9009ad838dccf1140f8b76.png?_1786904942"
   },
   {
     "id": "marathongo-2026-장수-레드푸드레이스-2026-09-12",
@@ -1004,8 +893,7 @@
     "sourceUrl": "http://www.smilerun.co.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.smilerun.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://www.smilerun.co.kr/%EC%8A%A4%EB%A7%88%EC%9D%BC%EB%9F%B0%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C/images/inc/image.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제26회-강화해변마라톤대회-2026-09-13",
@@ -1062,8 +950,7 @@
     "sourceUrl": "http://energyrun.co.kr/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://energyrun.co.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://energyrun.co.kr/images/og_image.png?202606"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-달리는-세상-10km-런-2026-09-13",
@@ -1175,7 +1062,8 @@
     "sourceUrl": "http://www.cyber-run.com",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cyber-run.com",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://www.cyber-run.com/2026%20%EC%A0%9C18%ED%9A%8C%20%EC%82%AC%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%86%A0%20%EC%88%98%ED%98%B8%20%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8C%80%ED%9A%8C/images/inc/image.png"
   },
   {
     "id": "marathongo-2026-안양천-하프-마라톤-2026-09-19",
@@ -1342,7 +1230,8 @@
     "sourceUrl": "http://namdongrun.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "http://namdongrun.kr",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://cdn.imweb.me/upload/S202607277881745b410cd/640b30a8577c4.png"
   },
   {
     "id": "marathongo-제19회-가평자라섬-전국마라톤-2026-09-20",
@@ -1362,8 +1251,7 @@
     "sourceUrl": "http://gprun.com/",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://gprun.com/",
-    "source": "마라톤GO",
-    "posterUrl": "http://gprun.com/images/og_image.png?260206"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-공주마라톤-2026-09-20",
@@ -2019,8 +1907,7 @@
     "sourceUrl": "http://amarunhs.com",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://amarunhs.com",
-    "source": "마라톤GO",
-    "posterUrl": "http://amarunhs.com/images/og_image.png?250609"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-한글런-2026-10-09",
@@ -2245,7 +2132,8 @@
     "sourceUrl": "http://www.xn--zl2btb922be3fb2a860c.com/",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.xn--zl2btb922be3fb2a860c.com/",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://www.xn--zl2btb922be3fb2a860c.com/superboard/data/siteconfig/"
   },
   {
     "id": "marathongo-제10회-가을철-산불조심마라톤-2026-10-11",
@@ -2729,8 +2617,7 @@
     "sourceUrl": "https://asiarun.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "https://asiarun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://asiarun.kr/images/og_image.png?260210"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-그린스텝-2026-2026-10-18",
@@ -2844,7 +2731,8 @@
     "sourceUrl": "http://www.cwrun.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cwrun.kr",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://cwrun.kr/ko/images/company_img.jpg"
   },
   {
     "id": "marathongo-2026-gtws-무주-트레일-2026-10-24",
@@ -2864,7 +2752,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=u1Qv3RP9H2gQ7kNvwHAWbZ9&_nc_oc=AdrMF2E1AUHasDr7MFtwS7lfJksf7N_iR2v5uL4kZGav2s0nEU0nYvT5PzI3LY32E1Y&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=owSw4flT6P0uIWwksLQL9g&_nc_ss=73100&oh=00_AQGX92e13Pf9-eZpULb8XHrjKxEIr2h4-YQ7crw0pZusTQ&oe=6A867F4E"
+    "posterUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=u1Qv3RP9H2gQ7kNvwFnSn2m&_nc_oc=AdpR8xssy7SfoEFhtkE5zjoDrE2YS_f0Fk7_t517ZjqQj5wK5AINx0rQALAYp30Bpok&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=tvCXpRY7zN4aOZzb2TKLvw&_nc_ss=73100&oh=00_AQHCJCdl4OyFC9XqtjkKo3ExXRf9plApRt2pinPUJaKjMg&oe=6A87D0CE"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -3368,8 +3256,7 @@
     "sourceUrl": "http://www.djmarathon.co.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.djmarathon.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://www.djmarathon.co.kr/images/og_image.png?20260702"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-dmz-open-평화마라톤-2026-11-01",
@@ -3725,8 +3612,7 @@
     "sourceUrl": "http://asanmarathon.co.kr/",
     "registrationStatus": "접수예정",
     "registrationUrl": "http://asanmarathon.co.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://asanmarathon.co.kr/images/og_image.png?2026"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-해남땅끝-전국마라톤대회-2026-11-08",
@@ -3764,8 +3650,7 @@
     "sourceUrl": "http://pohangmarathon.com/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://pohangmarathon.com/",
-    "source": "마라톤GO",
-    "posterUrl": "http://pohangmarathon.com/images/og_image.png?260413"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제26회-순천-남승룡마라톤대회-2026-11-14",
@@ -3861,7 +3746,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1786818699"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1786905082"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -3878,8 +3763,7 @@
     "sourceUrl": "http://happytrailrun.com",
     "registrationStatus": "접수중",
     "registrationUrl": "http://happytrailrun.com",
-    "source": "마라톤GO",
-    "posterUrl": "https://happytrailrun.com/images/og_image.png?2026"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제4회-영남알프스-전국-하프마라톤-2026-11-15",
@@ -3918,8 +3802,7 @@
     "sourceUrl": "http://sjrun.com",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://sjrun.com",
-    "source": "마라톤GO",
-    "posterUrl": "http://sjrun.com/images/og_image.png?20260701"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-가민런-코리아-2026-11-15",
@@ -4112,8 +3995,7 @@
     "sourceUrl": "http://peace-run.kr/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://peace-run.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://peace-run.kr/img/2026/peacerun_sns.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-자이스-스마일-레이스-2026-11-22",
@@ -4151,8 +4033,7 @@
     "sourceUrl": "http://ssrun.kr/",
     "registrationStatus": "접수예정",
     "registrationUrl": "http://ssrun.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://ssrun.kr/images/og_image.png?202607"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-김대중마라톤대회-2026-11-22",
