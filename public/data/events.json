@@ -1,40 +1,5 @@
 [
   {
-    "id": "marathongo-제2회-한양도성길-트레일런-2026-08-22",
-    "title": "제2회 한양도성길 트레일런",
-    "eventDate": "2026-08-22",
-    "registrationStart": "2026-06-15",
-    "registrationEnd": "2026-08-20",
-    "location": "낙산공원중앙광장(낙산길54)",
-    "region": "서울",
-    "distances": [
-      "20K"
-    ],
-    "organizer": "파브코리아",
-    "sourceUrl": "http://www.mtrailrun.kr/",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://www.mtrailrun.kr/",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-2026-서울패션로드-ddp-런더핏run-the-fit-2026-08-22",
-    "title": "2026 서울패션로드 DDP 런더핏(Run the Fit)",
-    "eventDate": "2026-08-22",
-    "registrationStart": "2026-08-06",
-    "registrationEnd": "2026-08-20",
-    "location": "DDP 이간수문 전시장",
-    "region": "서울",
-    "distances": [
-      "러닝 프로그램"
-    ],
-    "organizer": "서울시",
-    "sourceUrl": "https://inthetrail.com/shop_view/?idx=54",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "https://inthetrail.com/shop_view/?idx=54",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/thumbnail/20260807/cbc2f1f12c3b6.png"
-  },
-  {
     "id": "marathongo-2026-대구세계마스터즈-10km마라톤-2026-08-23",
     "title": "2026 대구세계마스터즈 10km마라톤",
     "eventDate": "2026-08-23",
@@ -49,8 +14,7 @@
     "sourceUrl": "http://www.wmac2026.com",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.wmac2026.com",
-    "source": "마라톤GO",
-    "posterUrl": "https://www.wmac2026.com/kr/img/og/wmac2026-og-1200x630.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-금수산트레일러닝대회-2026-08-23",
@@ -87,8 +51,7 @@
     "sourceUrl": "http://www.wmac2026.com",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.wmac2026.com",
-    "source": "마라톤GO",
-    "posterUrl": "https://www.wmac2026.com/kr/img/og/wmac2026-og-1200x630.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-교룡산성-백야드-2026-08-23",
@@ -180,8 +143,7 @@
     "sourceUrl": "http://wmac2026.com/kr/",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://wmac2026.com/kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://wmac2026.com/img/og/wmac2026-og-1200x630.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-대구세계마스터즈-하프마라톤대회-2026-08-30",
@@ -198,8 +160,7 @@
     "sourceUrl": "http://www.wmac2026.com",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.wmac2026.com",
-    "source": "마라톤GO",
-    "posterUrl": "https://www.wmac2026.com/kr/img/og/wmac2026-og-1200x630.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제3회-한강-서울-하프-마라톤-2026-08-30",
@@ -218,8 +179,7 @@
     "sourceUrl": "http://seoulhalfrun.kr/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://seoulhalfrun.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://seoulhalfrun.kr/img/2024/og_img_202608.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제3회-go대관령-국제-트레일런-2026-08-30",
@@ -712,7 +672,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://speedtrailrun.kr/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/a5e7d71783ddc98b29857ebc97c85165/speedagencytrailrun/650/30a9ef85df9009ad838dccf1140f8b76.png?_1787423448"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/a5e7d71783ddc98b29857ebc97c85165/speedagencytrailrun/650/30a9ef85df9009ad838dccf1140f8b76.png?_1787509761"
   },
   {
     "id": "marathongo-2026-장수-레드푸드레이스-2026-09-12",
@@ -2805,7 +2765,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=RBgvrqzMqiYQ7kNvwFswrF0&_nc_oc=Adp57jIeehIY6L0Buv7PZKjB03aw21cs4ulY4izDzWxxv0onLKamc4KYJCoJvMoJQ4I&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Op_WT7h-L7rowXU99NVBxg&_nc_ss=73100&oh=00_AQHz0bdRjz0dMi5zcQIX_86mLPL01bVJbrK6vsBakl_NUg&oe=6A8FB9CE"
+    "posterUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=RBgvrqzMqiYQ7kNvwEZ91LR&_nc_oc=AdoJVXKlW60p9U9YoRHskvwzZ69OVfN2chAWMg705xgau13TFBtgnP-qebrk7aBypgw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=qbEPBKzYtGaJmD05zZlOBw&_nc_ss=73100&oh=00_AQHwXNy7_mnCjJ4uXyEC5V7KgRG744bLLqv85LDLzbpYHg&oe=6A910B4E"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -3914,7 +3874,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1787423560"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1787509881"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
