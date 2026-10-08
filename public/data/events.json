@@ -778,7 +778,7 @@
     ],
     "organizer": "(사)행복한동행",
     "sourceUrl": "http://storyrun.kr/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://storyrun.kr/",
     "source": "마라톤GO",
     "posterUrl": "http://storyrun.kr/img/sns_story.jpg"
@@ -951,7 +951,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://cltoo.com/ko/product/379",
     "source": "마라톤GO",
-    "posterUrl": "https://tripboard.kr.object.ncloudstorage.com/PRODUCT/379/tour_og/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9og%20800_400-334y11.png"
+    "posterUrl": "https://tripboard.kr.object.ncloudstorage.com/PRODUCT/379/tour_og/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9og%20800_400-8aqb6e.png"
   },
   {
     "id": "marathongo-2026-아시아-오픈-마라톤-2026-10-18",
@@ -969,8 +969,7 @@
     "sourceUrl": "https://asiarun.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "https://asiarun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://asiarun.kr/images/og_image.png?260210"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-그린스텝-2026-2026-10-18",
@@ -1123,7 +1122,8 @@
     "sourceUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=PUHGtFn9Oq8Q7kNvwHB9TV0&_nc_oc=Adpeh_eHa4fZqSV2_8w7Qyrptorm1Ix8CJHIU6ia1IF7jFfRgKqNxIV7_pthKRDXkmE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=P4xlALff6-QoSsXu2a7tCg&_nc_ss=70100&oh=00_AQOuGotXaLLQE-RZc_qDj2kNRhtwltIDavgrS4lUTjDzng&oe=6ACDE88E"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -1291,7 +1291,7 @@
     ],
     "organizer": "(사)함께하는 사랑밭",
     "sourceUrl": "http://runwithgo.com",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://runwithgo.com",
     "source": "마라톤GO"
   },
@@ -1754,7 +1754,8 @@
     "sourceUrl": "http://www.instagram.com/drt_2022",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.instagram.com/drt_2022",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
   },
   {
     "id": "marathongo-런텐-12차-레이스-just-run10-포천-2026-10-31",
@@ -1927,8 +1928,7 @@
     "sourceUrl": "http://www.djmarathon.co.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.djmarathon.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://www.djmarathon.co.kr/images/og_image.png?20260702"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-dmz-open-평화마라톤-2026-11-01",
@@ -2042,7 +2042,7 @@
     ],
     "organizer": "부여군마라톤연합회",
     "sourceUrl": "http://mara1080.com/event/ffc023fc-7a54-4610-bdd6-2bb9a1028122",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://mara1080.com/event/ffc023fc-7a54-4610-bdd6-2bb9a1028122",
     "source": "마라톤GO"
   },
@@ -2243,7 +2243,7 @@
     ],
     "organizer": "굿네이버스 충청권역 x 국립세종수목원",
     "sourceUrl": "https://eggrun2026.imweb.me",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "https://eggrun2026.imweb.me",
     "source": "마라톤GO",
     "posterUrl": "https://cdn.imweb.me/upload/S202608102bb000ad4f1fe/adadf437251b8.png"
@@ -2925,7 +2925,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1791413458"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1791500505"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
