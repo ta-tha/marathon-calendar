@@ -1,269 +1,5 @@
 [
   {
-    "id": "marathongo-제7회-천안삼거리-흥타령울트라마라톤-2026-10-10",
-    "title": "제7회 천안삼거리 흥타령울트라마라톤",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-02-01",
-    "registrationEnd": "2026-09-30",
-    "location": "천안삼거리공원",
-    "region": "충남",
-    "distances": [
-      "100K",
-      "60K"
-    ],
-    "organizer": "천안삼거리흥타령울트라조직위",
-    "sourceUrl": "http://www.chultra.kr/",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://www.chultra.kr/",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-2026-경포마라톤-2026-10-10",
-    "title": "2026 경포마라톤",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-05-18",
-    "registrationEnd": "2026-06-23",
-    "location": "강원특별자치도 강릉시",
-    "region": "강원",
-    "distances": [
-      "하프",
-      "10K",
-      "5K"
-    ],
-    "organizer": "(주)강원도민일보",
-    "sourceUrl": "http://www.경포마라톤.com",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://www.경포마라톤.com",
-    "source": "마라톤GO",
-    "posterUrl": "http://www.xn--289av7rnxbd06bmrc.com/img/s_img2.jpg"
-  },
-  {
-    "id": "marathongo-제5회-무등산지오마라톤-2026-10-10",
-    "title": "제5회 무등산지오마라톤",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-05-18",
-    "registrationEnd": "2026-06-18",
-    "location": "화순 금호스파리조트",
-    "region": "전남",
-    "distances": [
-      "하프",
-      "10K",
-      "5K",
-      "30K"
-    ],
-    "organizer": "광주,전라남도,담양군,화순군",
-    "sourceUrl": "http://georun.kr/ko/",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://georun.kr/ko/",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-제9회-거제시장배-섬꽃-전국-마라톤-2026-10-10",
-    "title": "제9회 거제시장배 섬꽃 전국 마라톤",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-05-08",
-    "registrationEnd": "2026-09-10",
-    "location": "거제스포츠파크",
-    "region": "경남",
-    "distances": [
-      "하프",
-      "10K",
-      "4km"
-    ],
-    "organizer": "거제시, 거제시체육회",
-    "sourceUrl": "http://mara1080.com/event/b43655f0-60be-4c97-ad62-d377f6586ae0",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://mara1080.com/event/b43655f0-60be-4c97-ad62-d377f6586ae0",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-제5회-구미시장배-금오산트레일-레이스-2026-10-10",
-    "title": "제5회 구미시장배 금오산트레일 레이스",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-06-01",
-    "registrationEnd": "2026-07-31",
-    "location": "금오산 공영 대주차장",
-    "region": "경북",
-    "distances": [
-      "10K",
-      "18k",
-      "23k"
-    ],
-    "organizer": "구미시산악연맹, 구미트레일런",
-    "sourceUrl": "http://cafe.naver.com/gumitrailrunnerclub",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://cafe.naver.com/gumitrailrunnerclub",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-제3회-성동구연맹회장기-마라톤-2026-10-10",
-    "title": "제3회 성동구연맹회장기 마라톤",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-07-10",
-    "registrationEnd": "2026-08-30",
-    "location": "살곶이대운동장(축구장)",
-    "region": "서울",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "성동구체육회 / 성동구육상연맹",
-    "sourceUrl": "http://samsamis.com",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://samsamis.com",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S2025070404142d7141064/e9c6f9e7bf1cc.png"
-  },
-  {
-    "id": "marathongo-제4회-강서허준런run-2026-10-10",
-    "title": "제4회 강서허준런(RUN)",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-07-09",
-    "registrationEnd": "2026-07-17",
-    "location": "서울식물원 초지원",
-    "region": "서울",
-    "distances": [
-      "10K",
-      "5K",
-      "3km 패밀리런"
-    ],
-    "organizer": "강서구",
-    "sourceUrl": "http://강서허준런.com",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://강서허준런.com",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-충주-앙성-비내길-마라톤-대회-2026-10-10",
-    "title": "충주 앙성 비내길 마라톤 대회",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-07-15",
-    "registrationEnd": "2026-09-10",
-    "location": "충주앙성온천광장",
-    "region": "충북",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "앙성면체육회",
-    "sourceUrl": "http://mara1080.com/event/380079d2-ab1c-4351-b1f2-d21ccaba5cdd/guide/overview",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://mara1080.com/event/380079d2-ab1c-4351-b1f2-d21ccaba5cdd/guide/overview",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-제주풍차런-2026-10-10",
-    "title": "제주풍차런",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-07-08",
-    "registrationEnd": "2026-09-04",
-    "location": "한림수협다목적어업인종합지원센터",
-    "region": "제주",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "주식회사 어디감수광, 수원리",
-    "sourceUrl": "http://jejuwindmillrun.com",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://jejuwindmillrun.com",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S20260610235da01dda75a/59f84054f5791.png"
-  },
-  {
-    "id": "marathongo-제3회서울트레일런-대회-2026-10-10",
-    "title": "제3회서울트레일런 대회",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-08-05",
-    "registrationEnd": "2026-08-05",
-    "location": "시청 덕수궁돌담길",
-    "region": "서울",
-    "distances": [
-      "37: 20:11"
-    ],
-    "organizer": "서울울트라랠리",
-    "sourceUrl": "http://www.xn--zl2btb922be3fb2a860c.com/",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://www.xn--zl2btb922be3fb2a860c.com/",
-    "source": "마라톤GO",
-    "posterUrl": "https://www.xn--zl2btb922be3fb2a860c.com/superboard/data/siteconfig/"
-  },
-  {
-    "id": "marathongo-카카오프렌즈런-2026-2026-10-10",
-    "title": "카카오프렌즈런 2026",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-08-10",
-    "registrationEnd": "2026-08-17",
-    "location": "탄천 종합운동장",
-    "region": "경기",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "카카오",
-    "sourceUrl": "http://b.kakao.com/views/kakaofriendsrun",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://b.kakao.com/views/kakaofriendsrun",
-    "source": "마라톤GO",
-    "posterUrl": "https://t1.kakaocdn.net/brandtool/kakao-friends-run/img_og_v2.png"
-  },
-  {
-    "id": "marathongo-2026-하트런-2026-10-10",
-    "title": "2026 하트런",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-08-24",
-    "registrationEnd": "2026-09-11",
-    "location": "올림픽공원 피크닉장",
-    "region": "서울",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "하트-하트재단",
-    "sourceUrl": "http://heartrun.co.kr/",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://heartrun.co.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "http://ecimg.cafe24img.com/pg3206b72792007016/yesheart1988/web/upload/share-image-1-7e2f20f70e95b5161a1c9b0911baa731.jpg"
-  },
-  {
-    "id": "marathongo-진안트레일레이스-2026-10-10",
-    "title": "진안트레일레이스",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-08-10",
-    "registrationEnd": "2026-09-20",
-    "location": "국립진안고원산림치유원",
-    "region": "전북",
-    "distances": [
-      "16km"
-    ],
-    "organizer": "주식회사 락앤런",
-    "sourceUrl": "http://rocknrun.kr",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://rocknrun.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S2023060511d467df56b65/3cfa0641fdea7.png"
-  },
-  {
-    "id": "marathongo-2026-연수-꿈이음길-러닝대회-2026-10-10",
-    "title": "2026 연수 꿈이음길 러닝대회",
-    "eventDate": "2026-10-10",
-    "registrationStart": "2026-09-14",
-    "registrationEnd": "2026-09-30",
-    "location": "인천광역시 연수구 한마음공원",
-    "region": "인천",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "(주)경기일보",
-    "sourceUrl": "http://kyeonggiincheon.com",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://kyeonggiincheon.com",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.imweb.me/upload/S202609076d64e2ed24282/7fa38e433150a.png"
-  },
-  {
     "id": "marathongo-제10회-가을철-산불조심마라톤-2026-10-11",
     "title": "제10회 가을철 산불조심마라톤",
     "eventDate": "2026-10-11",
@@ -601,7 +337,7 @@
     ],
     "organizer": "㈜이월드 / 페스티벌잼",
     "sourceUrl": "http://leisure-web.yanolja.com/leisure/10365567",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://leisure-web.yanolja.com/leisure/10365567",
     "source": "마라톤GO",
     "posterUrl": "https://image6.yanolja.com/leisure/tYAjyXy3DLiFoZek"
@@ -1046,7 +782,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=PUHGtFn9Oq8Q7kNvwF5POr_&_nc_oc=AdotDgru0NMzAetlZHrh5z0f3xm1M5nwpbc-Hd9aAIy5ZSPzTLb1Tcs4Eax62KZvkbE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=DKtzBuioAAWp6gp9rsm2yw&_nc_ss=70100&oh=00_AQNdQtssYRKmgDcsJLR1MwjsoFO6jhEzLNwTRUW3Zm5PUg&oe=6AD08B8E"
+    "posterUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=qh0U67GeGKoQ7kNvwFJ0wAb&_nc_oc=AdqhysnUx6OytWwd-HO6-VrwKBZZDYN81G3_H7Jfq-bQuxmRK8OspQMQQPw-ay3yg-k&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=lMQV8k50943Dmm4pRyRmaw&_nc_ss=70100&oh=00_AQMlBFuatFoX0pKoKXe3bvCZT87V-1lrVKbscE8c43hzZw&oe=6AD1DD0E"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -1677,8 +1413,7 @@
     "sourceUrl": "http://www.instagram.com/drt_2022",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.instagram.com/drt_2022",
-    "source": "마라톤GO",
-    "posterUrl": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-런텐-12차-레이스-just-run10-포천-2026-10-31",
@@ -2129,7 +1864,7 @@
     ],
     "organizer": "(주)러닝브레이커,전국러닝협회",
     "sourceUrl": "http://runten.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://runten.co.kr",
     "source": "마라톤GO",
     "posterUrl": "https://runten.co.kr/images/og-image.jpg"
@@ -2500,7 +2235,7 @@
     ],
     "organizer": "완주군육상연맹",
     "sourceUrl": "https://wjrun.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "https://wjrun.co.kr",
     "source": "마라톤GO",
     "posterUrl": "https://wjrun.co.kr/images/sns_img.jpg"
@@ -2635,7 +2370,7 @@
     ],
     "organizer": "안성시 체육회 / 경인일보",
     "sourceUrl": "http://asrun.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://asrun.co.kr",
     "source": "마라톤GO",
     "posterUrl": "https://asrun.co.kr/image/og_image.jpg?v=7a428a90"
@@ -2865,7 +2600,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1791666977"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1791754568"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
