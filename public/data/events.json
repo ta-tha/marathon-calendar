@@ -439,7 +439,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=qh0U67GeGKoQ7kNvwGPPveV&_nc_oc=AdrIA5oxOlC4FgCOnZY6brUD_yackNpE1iKrkSVGX0sndN1lCTLVCC4t2CUBk2b7PwI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=00dp_EmZSwq1UJB1_Z_sjg&_nc_ss=70100&oh=00_AQNk7OUKnoOyyAUv0o0hL9CyWv6pN5el18dF7hleFacI-Q&oe=6AD32E8E"
+    "posterUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=qh0U67GeGKoQ7kNvwE-MKcn&_nc_oc=AdoYm7K00U6t1rJu9CakDmiiPcq18LAvpy93i0lAKnzX4IwgF6G_4_Xhl9QdFtMC5DM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=dfcKDRPbiPJ3puahU2EftQ&_nc_ss=70100&oh=00_AQOvRR42yuvNKjRUeabVOGP2SRLj4NKtMylrb-sCjFe9HA&oe=6AD4800E"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -572,7 +572,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://marathon.newsis.com",
     "source": "마라톤GO",
-    "posterUrl": "https://marathon.newsis.com/marathon/code/8049/images/og_main.jpg?ver=26071526"
+    "posterUrl": "https://marathon.newsis.com/marathon/code/8049/images/og_main.jpg?ver=26071527"
   },
   {
     "id": "marathongo-2026-무쓰런-2026-10-24",
@@ -1300,7 +1300,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://justicerun.kr/",
     "source": "마라톤GO",
-    "posterUrl": "https://justicerun.kr/api/banner-image/muus1eng414inzej.png"
+    "posterUrl": "https://justicerun.kr/api/banner-image/mv6bbaotan3tv2i7.png"
   },
   {
     "id": "marathongo-제40회-서봉기단축마라톤-2026-11-06",
@@ -2031,7 +2031,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://asrun.co.kr",
     "source": "마라톤GO",
-    "posterUrl": "https://asrun.co.kr/image/og_image.jpg?v=7a428a90"
+    "posterUrl": "https://asrun.co.kr/image/og_image.jpg?v=79e820ce"
   },
   {
     "id": "marathongo-2026-포항마라톤챔피언십-2026-11-14",
@@ -2258,7 +2258,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1791850490"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1791930145"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -3347,8 +3347,7 @@
     "sourceUrl": "https://cltoo.com/ko/product/341",
     "registrationStatus": "접수중",
     "registrationUrl": "https://cltoo.com/ko/product/341",
-    "source": "마라톤GO",
-    "posterUrl": "https://tripboard.kr.object.ncloudstorage.com/PRODUCT/341/tour_og/%5B%EC%9B%B9%5D%20%EB%B0%B0%EB%84%88_%EC%B9%B4%EC%B9%B4%EC%98%A4og-myvht7.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-허그런hug-run-2026-12-05",
