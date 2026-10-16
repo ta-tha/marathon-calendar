@@ -439,7 +439,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=enQw4IVQFhAQ7kNvwFn5_Uc&_nc_oc=AdoN4wwMa_wbfTBn_8Uu_wgl7wW0taSSUigekHYd0VUwYDRhD9JHESMKqmB9C8yd0hE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=FBgP27Jm5Gcpb4BUX6POSA&_nc_ss=70100&oh=00_AQPGcZrLp3itVbo_VUZ_eri1pr3EeGMVFlWj_RvZTgvSow&oe=6AD7230E"
+    "posterUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=enQw4IVQFhAQ7kNvwG5nesx&_nc_oc=AdrQYg0N2Mm3AlYEtQkebhRjHqKmuZcLTPMXxh6ekyM1J8BjwKv5Jw5iu0seApfZ5ZA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=dsSFfm4uJkN02a4oh4S3Yw&_nc_ss=70100&oh=00_AQMvotav8nfEJ19uaaw6z1bIckqqNnjhg-SzpMLOgTcCXQ&oe=6AD8748E"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -1071,7 +1071,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.instagram.com/drt_2022",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/311674252_629757841980989_6359011237636931455_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NjkuQzMifQ%3D%3D&_nc_ohc=DiyHNIO23BgQ7kNvwEZRP6K&_nc_oc=AdoAAgR7C5jBpGGfYMGKAYtj5fMCpH9gWKhbmYv2LNCkwxk7Vw_MkJZVu4dMG0VGEDk&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7060f&oh=00_AQP6ZkHsP4gEzjxGTF5r34WsSi_zLG6sMS1w0TpddwOxdw&oe=6AD705CB"
+    "posterUrl": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
   },
   {
     "id": "marathongo-런텐-12차-레이스-just-run10-포천-2026-10-31",
@@ -1300,7 +1300,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://justicerun.kr/",
     "source": "마라톤GO",
-    "posterUrl": "https://justicerun.kr/api/banner-image/mv6bbaotan3tv2i7.png"
+    "posterUrl": "https://justicerun.kr/api/banner-image/mvaktmi5qglzprf8.jpg"
   },
   {
     "id": "marathongo-제40회-서봉기단축마라톤-2026-11-06",
@@ -2238,7 +2238,7 @@
     ],
     "organizer": "전국마라톤협회",
     "sourceUrl": "http://www.mara1080.com/event/c8dc2c22-a83a-4743-9e34-c884e9809dbb",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://www.mara1080.com/event/c8dc2c22-a83a-4743-9e34-c884e9809dbb",
     "source": "마라톤GO"
   },
@@ -2255,10 +2255,10 @@
     ],
     "organizer": "한국백혈병소아암협회/시유케이컴",
     "sourceUrl": "http://www.cuk-sports.com/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1792098094"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1792182971"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -2678,7 +2678,7 @@
     ],
     "organizer": "주식회사 락앤런",
     "sourceUrl": "http://rocknrun.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://rocknrun.kr",
     "source": "마라톤GO",
     "posterUrl": "https://cdn.imweb.me/upload/S2023060511d467df56b65/3cfa0641fdea7.png"
@@ -3601,7 +3601,8 @@
     "sourceUrl": "http://bamseom.com/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://bamseom.com/",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://bamseom.com/img/2024/sns_img_202612.jpg"
   },
   {
     "id": "marathongo-제2회-일자산tral-running-2026-12-13",
