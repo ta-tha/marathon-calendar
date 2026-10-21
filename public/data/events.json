@@ -17,7 +17,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://www.facebook.com/jeonbuk.kr/posts/1441578457998057",
     "source": "마라톤GO",
-    "posterUrl": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=Mh-WT5EKwoIQ7kNvwENW5Pp&_nc_oc=AdrvvF1mp5qxXbkgqAx3jBJeVKeWKWbCoTEuFpYKjFhSkPaISvsvMxg_z7p51HNKiiM&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=z6hr4cBVZyqVKtFcf8mDmw&_nc_ss=70100&oh=00_AQO5XFpG8fkHgKL86_fBJYbnJ-vXqmv8R0GBU5KHxOPbBQ&oe=6ADDBA8E"
+    "posterUrl": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/655626609_1441563441332892_3046456024742647151_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x786&ctp=p600x600&_nc_cat=101&ccb=1-7&_nc_sid=cae128&_nc_ohc=Mh-WT5EKwoIQ7kNvwFHS4dY&_nc_oc=AdqRB5Vk5WGkibAFyCKubjSZUULbPBjwQFll1loqwlANfRyZwmPIUu_GppoiufM_9rE&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=mTHbUOjVUZwa0FasmvJECw&_nc_ss=70100&oh=00_AQPzZdBzFfsLk6qE89lIh3bgkQoey1DquWuaz5iuLXltnA&oe=6ADF0C0E"
   },
   {
     "id": "marathongo-2026-제3회-감성런-2026-10-24",
@@ -295,7 +295,7 @@
     ],
     "organizer": "팜프라",
     "sourceUrl": "https://fwr.libertyinnorthkorea.or.kr/2026",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "https://fwr.libertyinnorthkorea.or.kr/2026",
     "source": "마라톤GO",
     "posterUrl": "https://fwr.libertyinnorthkorea.or.kr/2026/og-2026.jpg"
@@ -313,7 +313,7 @@
     ],
     "organizer": "링크",
     "sourceUrl": "http://fwr.libertyinnorthkorea.or.kr/2026/#join",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://fwr.libertyinnorthkorea.or.kr/2026/#join",
     "source": "마라톤GO",
     "posterUrl": "https://fwr.libertyinnorthkorea.or.kr/2026/og-2026.jpg"
@@ -685,7 +685,7 @@
     ],
     "organizer": "국민건강진흥원/인천광역시걷기협",
     "sourceUrl": "http://icnr.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://icnr.kr",
     "source": "마라톤GO"
   },
@@ -724,7 +724,8 @@
     "sourceUrl": "http://runpass.kr/races/seongnam-ymca/2026",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://runpass.kr/races/seongnam-ymca/2026",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://mnttcllxbwjrodkgtiom.supabase.co/storage/v1/object/public/event-images/events/evt-seongnam-ymca-2026/share-e5c80531c0f1.jpg"
   },
   {
     "id": "marathongo-2026-jtbc-마라톤-2026-11-01",
@@ -1206,7 +1207,7 @@
     ],
     "organizer": "담양마라톤클럽",
     "sourceUrl": "http://www.metarun.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://www.metarun.kr",
     "source": "마라톤GO"
   },
@@ -1226,7 +1227,8 @@
     "sourceUrl": "https://naver.me/Fz8Zrhv0",
     "registrationStatus": "접수중",
     "registrationUrl": "https://naver.me/Fz8Zrhv0",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://survey.pstatic.net/nform/image/logo_og.png"
   },
   {
     "id": "marathongo-2026-양산-배내골-애플-런-2026-11-08",
@@ -1872,7 +1874,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1792531210"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1792617611"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -1947,7 +1949,8 @@
     "sourceUrl": "http://runable.me/product/18977?comp=18962",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://runable.me/product/18977?comp=18962",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://storage.runable.me/main/6319c293-7d11-43c9-b9b8-e74787cfbc86_260527-26_%EA%B0%80%EB%AF%BC%EB%9F%B0-%EC%9D%BC%EB%B0%98%EC%A0%91%EC%88%98-%EC%9D%B8%EC%95%B1-%EC%A0%95%EB%B0%A9%ED%98%95%20%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg?v=undefined"
   },
   {
     "id": "marathongo-2026-mbn-서울마라톤-2026-11-15",
@@ -2061,7 +2064,8 @@
     "sourceUrl": "http://nanumrun.or.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://nanumrun.or.kr",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://nanumrun.or.kr/images/common/metaLogo_nanum.png"
   },
   {
     "id": "marathongo-2026-fila-run-espresso-2026-11-15",
@@ -2078,7 +2082,8 @@
     "sourceUrl": "http://www.fila.co.kr/pages/fila-run-espresso-10k-seoul",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.fila.co.kr/pages/fila-run-espresso-10k-seoul",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://www.fila.co.kr/cdn/shop/files/1_87792c34-da59-46da-971d-e52664b893e7.jpg?v=1772691227"
   },
   {
     "id": "marathongo-2026-손기정평화마라톤-2026-11-15",
@@ -2193,7 +2198,8 @@
     "sourceUrl": "http://econow.campaignus.me/econow_run",
     "registrationStatus": "접수중",
     "registrationUrl": "http://econow.campaignus.me/econow_run",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://cdn.imweb.me/upload/S202604164a0eeb377b7b0/fc0f21e28de68.png"
   },
   {
     "id": "marathongo-2026-청춘레이스-2026-11-15",
@@ -2346,7 +2352,7 @@
     ],
     "organizer": "(주)러닝브레이커,전국러닝협회",
     "sourceUrl": "http://runten.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://runten.co.kr",
     "source": "마라톤GO",
     "posterUrl": "https://runten.co.kr/images/og-image.jpg"
@@ -3086,7 +3092,7 @@
     ],
     "organizer": "양산시체육회, 양산육상연맹",
     "sourceUrl": "http://ysmarathon.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://ysmarathon.kr",
     "source": "마라톤GO"
   },
