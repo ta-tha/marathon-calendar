@@ -150,7 +150,8 @@
     "sourceUrl": "http://www.instagram.com/drt_2022",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.instagram.com/drt_2022",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
   },
   {
     "id": "marathongo-런텐-12차-레이스-just-run10-포천-2026-10-31",
@@ -1431,7 +1432,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793053352"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793137997"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -2688,7 +2689,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.youthrun.co.kr",
     "source": "마라톤GO",
-    "posterUrl": "http://www.youthrun.co.kr/2026%20%EC%B2%AD%EC%B6%98%EB%9F%B0/images/inc/image.png"
+    "posterUrl": "http://www.youthrun.co.kr/%EC%A0%9C6%ED%9A%8C%202026%20%EC%B2%AD%EC%B6%98%EB%9F%B0/images/inc/image.png"
   },
   {
     "id": "marathongo-제1회-정읍-고향사랑기부마라톤-2026-12-06",
@@ -2920,7 +2921,8 @@
     "sourceUrl": "http://42195race.com/",
     "registrationStatus": "접수중",
     "registrationUrl": "http://42195race.com/",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://42195race.com/title_img20262.jpg"
   },
   {
     "id": "marathongo-제2회-청춘-릴레이-마라톤-2026-12-19",
@@ -3188,7 +3190,8 @@
     "sourceUrl": "http://www.badarun.co.kr",
     "registrationStatus": "접수예정",
     "registrationUrl": "http://www.badarun.co.kr",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://badarun.co.kr/ko/images/company_img.jpg"
   },
   {
     "id": "marathongo-소아암환우돕기-제24회-서울시민마라톤-2027-05-09",
