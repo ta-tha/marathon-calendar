@@ -132,7 +132,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://marvelrunkorea2026.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://marvelrunkorea2026.com/og.jpg"
+    "posterUrl": "https://marvelrunkorea2026.com/images/og/marvel-run.jpg"
   },
   {
     "id": "marathongo-2026-당진원런-마라톤-2026-10-31",
@@ -1432,7 +1432,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793313020"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793397580"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -2941,7 +2941,8 @@
     "sourceUrl": "http://youngrun.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "http://youngrun.kr",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://youngrun.kr/img/2025/og_img_2026_02.jpg"
   },
   {
     "id": "marathongo-2026-슬로우런마라톤aka-동계훈련-2026-12-20",
@@ -3189,8 +3190,7 @@
     "sourceUrl": "http://www.badarun.co.kr",
     "registrationStatus": "접수예정",
     "registrationUrl": "http://www.badarun.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "https://badarun.co.kr/ko/images/company_img.jpg"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-소아암환우돕기-제24회-서울시민마라톤-2027-05-09",
