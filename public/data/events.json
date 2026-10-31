@@ -1,24 +1,5 @@
 [
   {
-    "id": "marathongo-사우나런-in-뚝섬한강공원-2026-10-30",
-    "title": "사우나런 in 뚝섬한강공원",
-    "eventDate": "2026-10-30",
-    "registrationStart": "2026-07-06",
-    "registrationEnd": "2026-10-30",
-    "location": "뚝섬한강공원 인근",
-    "region": "서울",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "사우나런",
-    "sourceUrl": "https://saunarun.com/products/e5d5rnduj37y?page=1",
-    "registrationStatus": "접수중",
-    "registrationUrl": "https://saunarun.com/products/e5d5rnduj37y?page=1",
-    "source": "마라톤GO",
-    "posterUrl": "https://cdn.sixshop.io/commerce/public/stores/saunarun/products/%EB%9A%9D%EC%84%AC%ED%95%9C%EA%B0%95%EA%B3%B5%EC%9B%90_%ED%94%84%EB%A1%9C%ED%95%84_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EB%B8%94%EB%A3%A8_1783571541028.png"
-  },
-  {
     "id": "marathongo-2026-오티즘-레이스-2026-10-31",
     "title": "2026 오티즘 레이스",
     "eventDate": "2026-10-31",
@@ -876,7 +857,7 @@
     ],
     "organizer": "사상구청,사상구체육회",
     "sourceUrl": "http://ssecorun.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://ssecorun.co.kr",
     "source": "마라톤GO"
   },
@@ -1300,7 +1281,7 @@
     ],
     "organizer": "스타콜 x 롤링스톤 코리아",
     "sourceUrl": "https://n-runplus.co.kr/Jeungpyeong",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "https://n-runplus.co.kr/Jeungpyeong",
     "source": "마라톤GO",
     "posterUrl": "https://cdn.imweb.me/upload/S202605193c952706d27dc/2931f658fc8b9.png"
@@ -1318,7 +1299,7 @@
     ],
     "organizer": "월드비전 대구경북사업본부",
     "sourceUrl": "https://daegu6k-social-welfare.vercel.app",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "https://daegu6k-social-welfare.vercel.app",
     "source": "마라톤GO",
     "posterUrl": "https://daegu6k-social-welfare.vercel.app/og-image.jpg"
@@ -1392,7 +1373,7 @@
     ],
     "organizer": "(사)한국산악마라톤연맹",
     "sourceUrl": "http://koreatrail.net",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://koreatrail.net",
     "source": "마라톤GO"
   },
@@ -1432,7 +1413,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793397580"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793480712"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -1793,7 +1774,7 @@
     ],
     "organizer": "영남일보",
     "sourceUrl": "http://inno.ynmarathon.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://inno.ynmarathon.kr",
     "source": "마라톤GO",
     "posterUrl": "http://inno.ynmarathon.kr/jsp/home/images/inno/og-image.jpg?v=20260930-1"
@@ -1947,7 +1928,7 @@
     ],
     "organizer": "구미러닝크루",
     "sourceUrl": "http://cafe.naver.com/bikewin/12",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://cafe.naver.com/bikewin/12",
     "source": "마라톤GO"
   },
@@ -2062,7 +2043,7 @@
     ],
     "organizer": "아시아투데이(사)한국마라톤연맹",
     "sourceUrl": "http://ssrun.kr/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://ssrun.kr/",
     "source": "마라톤GO"
   },
@@ -2158,7 +2139,7 @@
     ],
     "organizer": "자이스",
     "sourceUrl": "https://zeiss-smilerace.kr/marathon/code/8050/index.php",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "https://zeiss-smilerace.kr/marathon/code/8050/index.php",
     "source": "마라톤GO",
     "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072738"
@@ -2386,7 +2367,7 @@
     ],
     "organizer": "강원도민일보, 원주시육상연맹",
     "sourceUrl": "http://wonju.raceplan.co.kr/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://wonju.raceplan.co.kr/",
     "source": "마라톤GO"
   },
@@ -2631,7 +2612,7 @@
     ],
     "organizer": "인천광역시육상연맹",
     "sourceUrl": "http://roadracing.co.kr/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://roadracing.co.kr/",
     "source": "마라톤GO",
     "posterUrl": "http://roadracing.co.kr/assets/imgs/main_top.jpg"
@@ -2649,7 +2630,7 @@
     ],
     "organizer": "전국마라톤협회",
     "sourceUrl": "http://www.mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://www.mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d",
     "source": "마라톤GO"
   },
@@ -3169,7 +3150,7 @@
     ],
     "organizer": "전국마라톤협회",
     "sourceUrl": "http://mara1080.com/event/92394e8e-a27c-4c3a-b286-7233340a9e7a",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://mara1080.com/event/92394e8e-a27c-4c3a-b286-7233340a9e7a",
     "source": "마라톤GO"
   },
@@ -3190,7 +3171,8 @@
     "sourceUrl": "http://www.badarun.co.kr",
     "registrationStatus": "접수예정",
     "registrationUrl": "http://www.badarun.co.kr",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://badarun.co.kr/ko/images/company_img.jpg"
   },
   {
     "id": "marathongo-소아암환우돕기-제24회-서울시민마라톤-2027-05-09",
