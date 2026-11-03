@@ -1,157 +1,5 @@
 [
   {
-    "id": "marathongo-2026-jtbc-마라톤-2026-11-01",
-    "title": "2026 jtbc 마라톤",
-    "eventDate": "2026-11-01",
-    "registrationStart": "2026-04-17",
-    "registrationEnd": "2026-04-21",
-    "location": "상암동 평화의 광장",
-    "region": "서울",
-    "distances": [
-      "풀코스",
-      "10K"
-    ],
-    "organizer": "jtbc",
-    "sourceUrl": "https://runable.me/product/17639?comp=3402",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "https://runable.me/product/17639?comp=3402",
-    "source": "마라톤GO",
-    "posterUrl": "https://storage.runable.me/main/2df10388-76d1-4ce3-b1a5-88ba049bbb3c_%EB%B3%B8%EC%A0%91%EC%88%98%20%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg?v=undefined"
-  },
-  {
-    "id": "marathongo-제21회-울산인권마라톤-2026-11-01",
-    "title": "제21회 울산인권마라톤",
-    "eventDate": "2026-11-01",
-    "registrationStart": "2026-08-18",
-    "registrationEnd": "2026-09-18",
-    "location": "태화강 둔치",
-    "region": "울산",
-    "distances": [
-      "하프",
-      "10K",
-      "5K"
-    ],
-    "organizer": "울산인권마라톤대회 조직위원회",
-    "sourceUrl": "http://www.humanrun.org",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://www.humanrun.org",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-2026-무안-해안-노을길-걷기-및-마라톤-2026-11-01",
-    "title": "2026 무안 해안 노을길 걷기 및 마라톤",
-    "eventDate": "2026-11-01",
-    "registrationStart": "2026-06-15",
-    "registrationEnd": "2026-10-01",
-    "location": "무안낙지공원",
-    "region": "전남",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "무안군체육회",
-    "sourceUrl": "http://mara1080.com/event/d596615e-cf32-4f20-bdbe-13b633f51c4e",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://mara1080.com/event/d596615e-cf32-4f20-bdbe-13b633f51c4e",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-2026-김천전국마라톤대회-2026-11-01",
-    "title": "2026 김천전국마라톤대회",
-    "eventDate": "2026-11-01",
-    "registrationStart": "2026-07-06",
-    "registrationEnd": "2026-09-18",
-    "location": "김천종합스포츠타운",
-    "region": "경북",
-    "distances": [
-      "하프",
-      "10K",
-      "5K"
-    ],
-    "organizer": "김천시체육회, 매일신문사",
-    "sourceUrl": "http://gcmarathon.co.kr",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://gcmarathon.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://gcmarathon.co.kr/jsp/home/images/top_logo_2025_b.png"
-  },
-  {
-    "id": "marathongo-제2회-대전-신채호-마라톤-2026-11-01",
-    "title": "제2회 대전 신채호 마라톤",
-    "eventDate": "2026-11-01",
-    "registrationStart": "2026-07-10",
-    "registrationEnd": "2026-07-31",
-    "location": "대전 뿌리공원 잔디광장",
-    "region": "대전",
-    "distances": [
-      "하프",
-      "10K",
-      "5K",
-      "패밀리런"
-    ],
-    "organizer": "대전시 중구 육상연맹",
-    "sourceUrl": "http://www.djmarathon.co.kr",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://www.djmarathon.co.kr",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-2026-dmz-open-평화마라톤-2026-11-01",
-    "title": "2026 DMZ OPEN 평화마라톤",
-    "eventDate": "2026-11-01",
-    "registrationStart": "2026-08-01",
-    "registrationEnd": "2026-08-01",
-    "location": "파주 임진각 평화누리 일원",
-    "region": "경기",
-    "distances": [
-      "하프",
-      "10K"
-    ],
-    "organizer": "경기도",
-    "sourceUrl": "http://dmzopenrun.kr",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://dmzopenrun.kr",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-26서울동행마라톤대회-2026-11-01",
-    "title": "26서울동행마라톤대회",
-    "eventDate": "2026-11-01",
-    "registrationStart": "2026-08-10",
-    "registrationEnd": "2026-10-02",
-    "location": "서울 목동종합운동장 주경기장",
-    "region": "서울",
-    "distances": [
-      "하프",
-      "10K",
-      "5K"
-    ],
-    "organizer": "서울동행마라톤조직위원회",
-    "sourceUrl": "http://seoulrun.com",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://seoulrun.com",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-justice-run-seocho-2026-2026-11-01",
-    "title": "JUSTICE RUN SEOCHO 2026",
-    "eventDate": "2026-11-01",
-    "registrationStart": "2026-09-21",
-    "registrationEnd": "2026-10-14",
-    "location": "반포한강공원 달빛광장",
-    "region": "서울",
-    "distances": [
-      "10K",
-      "5K"
-    ],
-    "organizer": "법률신문",
-    "sourceUrl": "http://justicerun.kr/",
-    "registrationStatus": "접수마감",
-    "registrationUrl": "http://justicerun.kr/",
-    "source": "마라톤GO",
-    "posterUrl": "https://justicerun.kr/api/banner-image/mvaktmi5qglzprf8.jpg"
-  },
-  {
     "id": "marathongo-2026-버추얼-한글런-2026-11-05",
     "title": "2026 버추얼 한글런",
     "eventDate": "2026-11-05",
@@ -860,7 +708,8 @@
     "sourceUrl": "http://comport11.oopy.io/gangnamhalfmarathon",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://comport11.oopy.io/gangnamhalfmarathon",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "https://oopy.lazyrockets.com/api/rest/cdn/image/01a05573-35e9-706e-ae6d-e118d9522dc1.png"
   },
   {
     "id": "marathongo-제3회-자유민주-마라톤대회-2026-11-08",
@@ -1145,7 +994,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "https://reboot-walk-2026.netlify.app",
     "source": "마라톤GO",
-    "posterUrl": "https://nhis-reboot-2026.netlify.app/assets/keyvisual.png"
+    "posterUrl": "https://reboot-walk-2026.netlify.app/assets/poster-20261102.jpg"
   },
   {
     "id": "marathongo-제24회-대모산구룡산-트레일런-2026-11-15",
@@ -1200,7 +1049,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793569589"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793666280"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -2931,7 +2780,7 @@
     ],
     "organizer": "밀양시",
     "sourceUrl": "http://www.miryangmarathon.com",
-    "registrationStatus": "접수예정",
+    "registrationStatus": "접수중",
     "registrationUrl": "http://www.miryangmarathon.com",
     "source": "마라톤GO"
   },
