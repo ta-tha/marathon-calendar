@@ -1049,7 +1049,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793666280"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1793746729"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -1679,7 +1679,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://zeiss-smilerace.kr",
     "source": "마라톤GO",
-    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072738"
+    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072744"
   },
   {
     "id": "marathongo-2026-서울-억새풀-마라톤대회-2026-11-22",
@@ -1795,7 +1795,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://zeiss-smilerace.kr/marathon/code/8050/index.php",
     "source": "마라톤GO",
-    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072738"
+    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072744"
   },
   {
     "id": "marathongo-부산항일학생의거86주년기념-부산시민이어달리기-2026-11-22",
@@ -2416,8 +2416,7 @@
     "sourceUrl": "http://www.youthrun.co.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "http://www.youthrun.co.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://www.youthrun.co.kr/%EC%A0%9C6%ED%9A%8C%202026%20%EC%B2%AD%EC%B6%98%EB%9F%B0/images/inc/image.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-소년소녀-가장-돕기-기부런-2026-12-12",
