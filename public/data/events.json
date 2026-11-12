@@ -261,7 +261,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1794351280"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1794442081"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -891,7 +891,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://zeiss-smilerace.kr",
     "source": "마라톤GO",
-    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072748"
+    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072750"
   },
   {
     "id": "marathongo-2026-서울-억새풀-마라톤대회-2026-11-22",
@@ -1007,7 +1007,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://zeiss-smilerace.kr/marathon/code/8050/index.php",
     "source": "마라톤GO",
-    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072748"
+    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072750"
   },
   {
     "id": "marathongo-부산항일학생의거86주년기념-부산시민이어달리기-2026-11-22",
@@ -1022,7 +1022,7 @@
     ],
     "organizer": "(사)부산항일학생의거기념사업회",
     "sourceUrl": "http://i1123.org",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://i1123.org",
     "source": "마라톤GO"
   },
@@ -1119,7 +1119,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.peacerun.kr",
     "source": "마라톤GO",
-    "posterUrl": "https://peacerun.kr/marathon/code/8051/images/og_main.jpg?ver=26072737"
+    "posterUrl": "https://peacerun.kr/marathon/code/8051/images/og_main.jpg?ver=26072738"
   },
   {
     "id": "marathongo-2026-착한서구-공부방-기부앤런-2026-11-28",
@@ -1324,7 +1324,7 @@
     ],
     "organizer": "광진구체육회(광진구육상연맹)",
     "sourceUrl": "http://ksgaaf.co.kr/",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://ksgaaf.co.kr/",
     "source": "마라톤GO",
     "posterUrl": "https://cdn.imweb.me/upload/S20240205a021dd5619234/4a885014608a6.png"
@@ -1608,7 +1608,7 @@
     ],
     "organizer": "화순군체육회, 화순군육상연맹",
     "sourceUrl": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp",
     "source": "마라톤GO"
   },
@@ -1645,7 +1645,8 @@
     "sourceUrl": "http://www.youthrun.co.kr",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.youthrun.co.kr",
-    "source": "마라톤GO"
+    "source": "마라톤GO",
+    "posterUrl": "http://www.youthrun.co.kr/%EC%A0%9C6%ED%9A%8C%202026%20%EC%B2%AD%EC%B6%98%EB%9F%B0/images/inc/image.png"
   },
   {
     "id": "marathongo-2026-소년소녀-가장-돕기-기부런-2026-12-12",
@@ -1857,7 +1858,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://yssmarathon.com",
     "source": "마라톤GO",
-    "posterUrl": "http://yssmarathon.com/wp-content/themes/yss-marathon/assets/hero-statue-dawn.jpg?ver=1.0.45"
+    "posterUrl": "http://yssmarathon.com/wp-content/themes/yss-marathon/assets/hero-statue-dawn.jpg?ver=1.0.49"
   },
   {
     "id": "marathongo-부산금정산성트레일-2026-12-13",
