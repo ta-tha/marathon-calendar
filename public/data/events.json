@@ -261,7 +261,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.cuk-sports.com/",
     "source": "마라톤GO",
-    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1794442081"
+    "posterUrl": "https://storage.googleapis.com/cr-resource/image/97dc9c2b10eb5860ca00292efc7e7e10/ucksports/650/9dd45a6326f68eb47f0333f64cee8fe5.png?_1794525371"
   },
   {
     "id": "marathongo-제17회-행복트레일런-축제-2026-11-15",
@@ -1590,8 +1590,7 @@
     "sourceUrl": "http://love.myrunup.kr",
     "registrationStatus": "접수중",
     "registrationUrl": "http://love.myrunup.kr",
-    "source": "마라톤GO",
-    "posterUrl": "http://love.myrunup.kr/jsp/home/images/jeongeup_logo.png"
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2026-화순고인돌마라톤-2026-12-06",
@@ -1858,7 +1857,7 @@
     "registrationStatus": "접수중",
     "registrationUrl": "http://yssmarathon.com",
     "source": "마라톤GO",
-    "posterUrl": "http://yssmarathon.com/wp-content/themes/yss-marathon/assets/hero-statue-dawn.jpg?ver=1.0.49"
+    "posterUrl": "http://yssmarathon.com/wp-content/themes/yss-marathon/assets/hero-statue-dawn.jpg?ver=1.0.52"
   },
   {
     "id": "marathongo-부산금정산성트레일-2026-12-13",
