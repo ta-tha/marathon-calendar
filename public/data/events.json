@@ -245,7 +245,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://zeiss-smilerace.kr",
     "source": "마라톤GO",
-    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072752"
+    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072753"
   },
   {
     "id": "marathongo-2026-서울-억새풀-마라톤대회-2026-11-22",
@@ -361,7 +361,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "https://zeiss-smilerace.kr/marathon/code/8050/index.php",
     "source": "마라톤GO",
-    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072752"
+    "posterUrl": "https://zeiss-smilerace.kr/marathon/code/8050/images/og_main.jpg?ver=26072753"
   },
   {
     "id": "marathongo-부산항일학생의거86주년기념-부산시민이어달리기-2026-11-22",
@@ -398,6 +398,28 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC&mid=0003%2C0014&no=722",
     "source": "마라톤GO"
+  },
+  {
+    "id": "marathongo-마르-백야드울트라6-2026-11-22",
+    "title": "마르 백야드울트라6",
+    "eventDate": "2026-11-22",
+    "registrationStart": "2026-11-01",
+    "registrationEnd": "2026-11-20",
+    "location": "제주시 월각로 783",
+    "region": "제주",
+    "distances": [
+      "풀코스",
+      "하프",
+      "10K",
+      "5K",
+      "6.704km 루프"
+    ],
+    "organizer": "(주)마르어드벤처",
+    "sourceUrl": "http://events.maar-adv.com/backyardultra",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://events.maar-adv.com/backyardultra",
+    "source": "마라톤GO",
+    "posterUrl": "https://events.maar-adv.com/api/media/file/%ED%94%84%EB%A1%9C%ED%95%84.png"
   },
   {
     "id": "marathongo-2026-무진장트레일레이스-2026-11-23",
@@ -473,7 +495,7 @@
     "registrationStatus": "접수마감",
     "registrationUrl": "http://www.peacerun.kr",
     "source": "마라톤GO",
-    "posterUrl": "https://peacerun.kr/marathon/code/8051/images/og_main.jpg?ver=26072739"
+    "posterUrl": "https://peacerun.kr/marathon/code/8051/images/og_main.jpg?ver=26072741"
   },
   {
     "id": "marathongo-2026-착한서구-공부방-기부앤런-2026-11-28",
@@ -606,24 +628,6 @@
     "sourceUrl": "http://wonju.raceplan.co.kr/",
     "registrationStatus": "접수마감",
     "registrationUrl": "http://wonju.raceplan.co.kr/",
-    "source": "마라톤GO"
-  },
-  {
-    "id": "marathongo-2026-대전보문산트레일-2026-11-29",
-    "title": "2026 대전보문산트레일",
-    "eventDate": "2026-11-29",
-    "registrationStart": "2026-08-28",
-    "registrationEnd": "2026-11-28",
-    "location": "오월드 주차장",
-    "region": "전남",
-    "distances": [
-      "15km",
-      "10K"
-    ],
-    "organizer": "명품 파브코리아",
-    "sourceUrl": "http://www.mtrailrun.kr/",
-    "registrationStatus": "접수중",
-    "registrationUrl": "http://www.mtrailrun.kr/",
     "source": "마라톤GO"
   },
   {
@@ -836,6 +840,25 @@
     "posterUrl": "https://cdn.imweb.me/upload/S2025070404142d7141064/e9c6f9e7bf1cc.png"
   },
   {
+    "id": "marathongo-2026-유관순-평화-마라톤-2026-12-05",
+    "title": "2026 유관순 평화 마라톤",
+    "eventDate": "2026-12-05",
+    "registrationStart": "2026-11-17",
+    "registrationEnd": "2026-11-23",
+    "location": "천안 독립기념관 겨레의 큰 마",
+    "region": "충남",
+    "distances": [
+      "10K",
+      "5K"
+    ],
+    "organizer": "천안시체육회, 대전일보사",
+    "sourceUrl": "http://ryugwansun.co.kr/",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://ryugwansun.co.kr/",
+    "source": "마라톤GO",
+    "posterUrl": "https://ryugwansun.co.kr/assets/hero-1280.jpg"
+  },
+  {
     "id": "marathongo-2026-부산브릿지-마라톤-2026-12-06",
     "title": "2026 부산브릿지 마라톤",
     "eventDate": "2026-12-06",
@@ -926,6 +949,24 @@
     "registrationUrl": "http://www.youthrun.co.kr",
     "source": "마라톤GO",
     "posterUrl": "http://www.youthrun.co.kr/%EC%A0%9C6%ED%9A%8C%202026%20%EC%B2%AD%EC%B6%98%EB%9F%B0/images/inc/image.png"
+  },
+  {
+    "id": "marathongo-2026-대전보문산트레일-2026-12-06",
+    "title": "2026 대전보문산트레일",
+    "eventDate": "2026-12-06",
+    "registrationStart": "2026-08-28",
+    "registrationEnd": "2026-11-28",
+    "location": "오월드 주차장",
+    "region": "전남",
+    "distances": [
+      "15km",
+      "10K"
+    ],
+    "organizer": "명품 파브코리아",
+    "sourceUrl": "http://www.mtrailrun.kr/",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://www.mtrailrun.kr/",
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제1회-정읍-고향사랑기부마라톤-2026-12-06",
@@ -1402,6 +1443,24 @@
     "source": "마라톤GO"
   },
   {
+    "id": "marathongo-제19회-제천의림지삼한초록길-알몸마라톤-2027-01-10",
+    "title": "제19회 제천의림지삼한초록길 알몸마라톤",
+    "eventDate": "2027-01-10",
+    "registrationStart": "2026-11-14",
+    "registrationEnd": "2026-12-31",
+    "location": "제천 의림지박물관 광장",
+    "region": "충북",
+    "distances": [
+      "7km"
+    ],
+    "organizer": "제천시육상연맹",
+    "sourceUrl": "http://jcaaf.com/",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://jcaaf.com/",
+    "source": "마라톤GO",
+    "posterUrl": "http://jcaaf.com/img/og-thumb.jpg?v=1"
+  },
+  {
     "id": "marathongo-2027-북극곰-마라톤-2027-01-23",
     "title": "2027 북극곰 마라톤",
     "eventDate": "2027-01-23",
@@ -1420,6 +1479,24 @@
     "registrationUrl": "http://polarbearrun.kr",
     "source": "마라톤GO",
     "posterUrl": "http://polarbearrun.kr/img/bear_og_img.jpg"
+  },
+  {
+    "id": "marathongo-2027-평창-대관령-알몸마라톤-2027-01-31",
+    "title": "2027 평창 대관령 알몸마라톤",
+    "eventDate": "2027-01-31",
+    "registrationStart": "2026-11-19",
+    "registrationEnd": "2027-01-31",
+    "location": "대관령눈꽃축제장",
+    "region": "강원",
+    "distances": [
+      "10K",
+      "5K"
+    ],
+    "organizer": "전국마라톤협회",
+    "sourceUrl": "http://mara1080.com/event/d243ad5f-f193-4e72-9c7e-c46969437cf8",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://mara1080.com/event/d243ad5f-f193-4e72-9c7e-c46969437cf8",
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-2027-전마협-고흥-누리호-마라톤대회-2027-02-13",
@@ -1557,6 +1634,87 @@
     "source": "마라톤GO"
   },
   {
+    "id": "marathongo-2027-정읍동학마라톤-2027-02-28",
+    "title": "2027 정읍동학마라톤",
+    "eventDate": "2027-02-28",
+    "registrationStart": "2026-11-17",
+    "registrationEnd": "2027-01-20",
+    "location": "정읍 체육트레이닝센터(운동장)",
+    "region": "전북",
+    "distances": [
+      "풀코스",
+      "10K",
+      "5K",
+      "30K"
+    ],
+    "organizer": "정읍시육상연맹",
+    "sourceUrl": "http://jp.myrunup.kr",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://jp.myrunup.kr",
+    "source": "마라톤GO",
+    "posterUrl": "http://jp.myrunup.kr/jsp/home/images/donghak_sport_hero_front.png"
+  },
+  {
+    "id": "marathongo-제11회-산불조심한국-서울마라톤-2027-02-28",
+    "title": "제11회 산불조심한국 서울마라톤",
+    "eventDate": "2027-02-28",
+    "registrationStart": "2026-11-08",
+    "registrationEnd": "2027-01-31",
+    "location": "수서 광평교",
+    "region": "서울",
+    "distances": [
+      "풀코스",
+      "하프",
+      "10K",
+      "6km"
+    ],
+    "organizer": "한국트레일러너연맹",
+    "sourceUrl": "http://www.nobulrun.com/",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://www.nobulrun.com/",
+    "source": "마라톤GO"
+  },
+  {
+    "id": "marathongo-2027-경기수원국제하프마라톤-2027-02-28",
+    "title": "2027 경기수원국제하프마라톤",
+    "eventDate": "2027-02-28",
+    "registrationStart": "2026-11-20",
+    "registrationEnd": "2026-11-30",
+    "location": "수원종합운동장",
+    "region": "경기",
+    "distances": [
+      "하프",
+      "10K",
+      "5K"
+    ],
+    "organizer": "경기신문",
+    "sourceUrl": "http://ggimarathon.com",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://ggimarathon.com",
+    "source": "마라톤GO"
+  },
+  {
+    "id": "marathongo-2027-전북특별자치도-31절-마라톤-2027-02-28",
+    "title": "2027 전북특별자치도 3.1절 마라톤",
+    "eventDate": "2027-02-28",
+    "registrationStart": "2026-11-30",
+    "registrationEnd": "2026-12-03",
+    "location": "전주월드컵경기장",
+    "region": "전북",
+    "distances": [
+      "31km",
+      "하프",
+      "10K",
+      "5K"
+    ],
+    "organizer": "전북중앙신문",
+    "sourceUrl": "https://jbrun31.com",
+    "registrationStatus": "접수예정",
+    "registrationUrl": "https://jbrun31.com",
+    "source": "마라톤GO",
+    "posterUrl": "https://jbrun31.com/assets/assets/images/hero-runners-upscaled.png"
+  },
+  {
     "id": "marathongo-2027-머니투데이방송-삼일절-마라톤-2027-03-01",
     "title": "2027 머니투데이방송 삼일절 마라톤",
     "eventDate": "2027-03-01",
@@ -1633,6 +1791,44 @@
     "source": "마라톤GO"
   },
   {
+    "id": "marathongo-2027-부산다대포마라톤-2027-03-14",
+    "title": "2027 부산다대포마라톤",
+    "eventDate": "2027-03-14",
+    "registrationStart": "2026-11-17",
+    "registrationEnd": "2026-12-05",
+    "location": "부산 다대포해변공원 도로 앞",
+    "region": "부산",
+    "distances": [
+      "하프",
+      "10K",
+      "5K"
+    ],
+    "organizer": "부산다대포마라톤조직위",
+    "sourceUrl": "http://dadaeporun.kr",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://dadaeporun.kr",
+    "source": "마라톤GO",
+    "posterUrl": "https://www.dadaeporun.kr/images/common/metaLogo_dadaeporun.jpg"
+  },
+  {
+    "id": "marathongo-제28회-이천-도자기-마라톤-2027-03-14",
+    "title": "제28회 이천 도자기 마라톤",
+    "eventDate": "2027-03-14",
+    "registrationStart": "2026-11-23",
+    "registrationEnd": "2027-03-14",
+    "location": "이천종합운동장",
+    "region": "경기",
+    "distances": [
+      "하프",
+      "10K"
+    ],
+    "organizer": "이천시체육회",
+    "sourceUrl": "http://mara1080.com/event/2b3a03c4-4fc6-4d34-8a33-2449fafcaa23",
+    "registrationStatus": "접수예정",
+    "registrationUrl": "http://mara1080.com/event/2b3a03c4-4fc6-4d34-8a33-2449fafcaa23",
+    "source": "마라톤GO"
+  },
+  {
     "id": "marathongo-2027-서울마라톤-2027-03-21",
     "title": "2027 서울마라톤",
     "eventDate": "2027-03-21",
@@ -1671,6 +1867,83 @@
     "source": "마라톤GO"
   },
   {
+    "id": "marathongo-제34회-315마라톤-2027-03-28",
+    "title": "제34회 315마라톤",
+    "eventDate": "2027-03-28",
+    "registrationStart": "2026-12-21",
+    "registrationEnd": "2027-02-28",
+    "location": "3.15해양누리공원",
+    "region": "경남",
+    "distances": [
+      "10K",
+      "5K"
+    ],
+    "organizer": "315의거기념사업회",
+    "sourceUrl": "http://www.masanmarathon.or.kr/",
+    "registrationStatus": "접수예정",
+    "registrationUrl": "http://www.masanmarathon.or.kr/",
+    "source": "마라톤GO"
+  },
+  {
+    "id": "marathongo-제26회-합천벚꽃마라톤-2027-03-28",
+    "title": "제26회 합천벚꽃마라톤",
+    "eventDate": "2027-03-28",
+    "registrationStart": "2026-12-01",
+    "registrationEnd": "2026-12-31",
+    "location": "합천공설운동장",
+    "region": "경남",
+    "distances": [
+      "풀코스",
+      "하프",
+      "10K",
+      "5K"
+    ],
+    "organizer": "합천군체육회",
+    "sourceUrl": "http://www.hcmrt.or.kr/ko/index.html",
+    "registrationStatus": "접수예정",
+    "registrationUrl": "http://www.hcmrt.or.kr/ko/index.html",
+    "source": "마라톤GO"
+  },
+  {
+    "id": "marathongo-2027-영주소백산마라톤-2027-04-04",
+    "title": "2027 영주소백산마라톤",
+    "eventDate": "2027-04-04",
+    "registrationStart": "2026-11-23",
+    "registrationEnd": "2026-12-31",
+    "location": "영주시민운동장",
+    "region": "경북",
+    "distances": [
+      "풀코스",
+      "하프",
+      "10K",
+      "5K"
+    ],
+    "organizer": "영주시, 매일신문사",
+    "sourceUrl": "http://www.sobaekmarathon.go.kr",
+    "registrationStatus": "접수예정",
+    "registrationUrl": "http://www.sobaekmarathon.go.kr",
+    "source": "마라톤GO"
+  },
+  {
+    "id": "marathongo-제16회-양천마라톤대회-2027-04-10",
+    "title": "제16회 양천마라톤대회",
+    "eventDate": "2027-04-10",
+    "registrationStart": "2027-01-16",
+    "registrationEnd": "2027-02-01",
+    "location": "(목동) 안양천 해마루축구장",
+    "region": "서울",
+    "distances": [
+      "하프",
+      "10K",
+      "5K"
+    ],
+    "organizer": "양천구",
+    "sourceUrl": "http://ycrun.com",
+    "registrationStatus": "접수예정",
+    "registrationUrl": "http://ycrun.com",
+    "source": "마라톤GO"
+  },
+  {
     "id": "marathongo-2027-인천k마라톤-2027-04-11",
     "title": "2027 인천k-마라톤",
     "eventDate": "2027-04-11",
@@ -1689,6 +1962,23 @@
     "registrationUrl": "http://k-player.or.kr/incheon2027",
     "source": "마라톤GO",
     "posterUrl": "https://k-player.or.kr/incheon2027/og/og-incheon2027.jpg"
+  },
+  {
+    "id": "marathongo-제6회-산악울트라-utmbitra-2027-04-11",
+    "title": "제6회 산악울트라 UTMB,ITRA",
+    "eventDate": "2027-04-11",
+    "registrationStart": "2026-10-15",
+    "registrationEnd": "2026-12-15",
+    "location": "수서역7번출구",
+    "region": "서울",
+    "distances": [
+      "90km"
+    ],
+    "organizer": "(사)한국산악마라톤연맹",
+    "sourceUrl": "http://koreatrail.net",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://koreatrail.net",
+    "source": "마라톤GO"
   },
   {
     "id": "marathongo-제9회-오션뷰-기장바다마라톤-2027-04-18",
@@ -1769,6 +2059,24 @@
     "sourceUrl": "http://soaam.runningdr.co.kr",
     "registrationStatus": "접수예정",
     "registrationUrl": "http://soaam.runningdr.co.kr",
+    "source": "마라톤GO"
+  },
+  {
+    "id": "marathongo-제39회지리산utmb-index-및-itra-2027-05-16",
+    "title": "제39회지리산UTMB INDEX 및 ITRA",
+    "eventDate": "2027-05-16",
+    "registrationStart": "2026-11-08",
+    "registrationEnd": "2027-04-20",
+    "location": "화엄사주차징",
+    "region": "전남",
+    "distances": [
+      "48km",
+      "40km"
+    ],
+    "organizer": "(사)한국산악마라톤전남광주연맹",
+    "sourceUrl": "http://koreatrail.net",
+    "registrationStatus": "접수중",
+    "registrationUrl": "http://koreatrail.net",
     "source": "마라톤GO"
   },
   {
