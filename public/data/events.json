@@ -149,7 +149,7 @@
     ],
     "organizer": "(주)1986프로덕션",
     "sourceUrl": "http://seoul.lifemarathon.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://seoul.lifemarathon.co.kr",
     "source": "마라톤GO",
     "posterUrl": "https://seoul.lifemarathon.co.kr/life-marathon-share-image.png"
@@ -416,7 +416,7 @@
     ],
     "organizer": "(주)마르어드벤처",
     "sourceUrl": "http://events.maar-adv.com/backyardultra",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://events.maar-adv.com/backyardultra",
     "source": "마라톤GO",
     "posterUrl": "https://events.maar-adv.com/api/media/file/%ED%94%84%EB%A1%9C%ED%95%84.png"
@@ -834,7 +834,7 @@
     ],
     "organizer": "완주군/완주군체육회",
     "sourceUrl": "http://samsam3315.imweb.me/75",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://samsam3315.imweb.me/75",
     "source": "마라톤GO",
     "posterUrl": "https://cdn.imweb.me/upload/S2025070404142d7141064/e9c6f9e7bf1cc.png"
@@ -1079,7 +1079,7 @@
     ],
     "organizer": "새마펄스",
     "sourceUrl": "http://www.omrun.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://www.omrun.co.kr",
     "source": "마라톤GO",
     "posterUrl": "https://omrun.co.kr/images/og_image.jpg"
@@ -1119,7 +1119,7 @@
     ],
     "organizer": "채널A",
     "sourceUrl": "http://charun.co.kr",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://charun.co.kr",
     "source": "마라톤GO"
   },
@@ -1136,7 +1136,7 @@
     ],
     "organizer": "평창관광문화재단",
     "sourceUrl": "http://order.doortoout.com/12/8/78",
-    "registrationStatus": "접수중",
+    "registrationStatus": "접수마감",
     "registrationUrl": "http://order.doortoout.com/12/8/78",
     "source": "마라톤GO",
     "posterUrl": "https://order.doortoout.com/og/og-default.png"
